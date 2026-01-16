@@ -1,0 +1,984 @@
+nom,prix_intervalle,rating,nb_notes,adresse,ville,main_category,commune,code_postal,arrondissement,zone_paris
+Bouillon Pigalle,25.0,5.0,52298,22 Bd de Clichy,"Paris, Ile-de-France, France",restaurant francais,Paris,75018.0,18.0,peripherie
+Les Cocottes,32.0,5.0,11308,135 Rue Saint-Dominique,"Paris, Ile-de-France, France",restaurant francais,Paris,75007.0,7.0,centre
+Yi Fang - Bubble Tea The aux Fruits - Choisy,9.0,5.0,3567,"15 Rue des Freres dAstier de la Vigerie, 66 Av. de Choisy","Paris, Ile-de-France, France",desserts,Paris,75001.0,1.0,centre
+Chouchou,20.0,5.0,19925,23 Bd de Sebastopol,"Paris, Ile-de-France, France",restaurant mediterraneens,Paris,75001.0,1.0,centre
+Del Totorino la pizza au feu de bois,15.0,5.0,5827,36 Rue de Bagnolet,"Paris, Ile-de-France, France",pizzeria,Paris,75020.0,20.0,peripherie
+Happy Caffe,5.5,5.0,8216,214 Rue de Rivoli,"Paris, Ile-de-France, France",cafe,Paris,75001.0,1.0,centre
+Jungle Palace by Ephemera,30.0,5.0,20675,12 Rue de la Fidelite,"Paris, Ile-de-France, France",restaurant,Paris,75010.0,10.0,intermediaire
+Mosuke,100.0,5.0,2172,11 Rue Raymond Losserand,"Paris, Ile-de-France, France",restaurant francais,Paris,75014.0,14.0,intermediaire
+Sphere,100.0,5.0,16755,18 Rue La Boetie,"Paris, Ile-de-France, France",restaurant francais,Paris,75008.0,8.0,centre
+Manteigaria - Fabrica de Pasteis de Nata Saint-Lazare,5.5,5.0,3986,123 Rue Saint-Lazare,"Paris, Ile-de-France, France",cafe georgien,Paris,75008.0,8.0,centre
+Manteigaria - Fabrica de Pasteis de Nata Rambuteau,5.5,5.0,6527,24 Rue Rambuteau,"Paris, Ile-de-France, France",cafe georgien,Paris,75003.0,3.0,centre
+Immersion Sentier - Lunch Everyday Brunch Coffee,25.0,5.0,5306,106 Rue Montmartre,"Paris, Ile-de-France, France",cafe,Paris,75002.0,2.0,centre
+LEbauchoir,25.0,5.0,3239,43 rue Citeaux,"Paris, Ile-de-France, France",restaurant francais,Paris,75012.0,12.0,intermediaire
+Hestia Restaurant,65.0,5.0,819,8 Rue de la Huchette,"Paris, Ile-de-France, France",restaurant,Paris,75005.0,5.0,centre
+Bon Bouquet Cafe,25.0,5.0,11401,30 Rue Le Peletier,"Paris, Ile-de-France, France",cafe,Paris,75009.0,9.0,centre
+New Jawad Longchamp,25.0,5.0,11064,30 Rue de Longchamp,"Paris, Ile-de-France, France",restaurant,Paris,75116.0,16.0,peripherie
+Trantranzai Chatelet,15.0,5.0,8467,94 Rue St Denis,"Paris, Ile-de-France, France",restaurant chinois,Paris,75001.0,1.0,centre
+DAME,47.5,5.0,455,38 Rue Condorcet,"Paris, Ile-de-France, France",restaurant francais,Paris,75009.0,9.0,centre
+Ducasse sur Seine,145.0,5.0,2663,19 Port Debilly,"Paris, Ile-de-France, France",restaurant francais,Paris,75016.0,16.0,peripherie
+Bistrotters,45.0,5.0,5327,9 Rue Decres,"Paris, Ile-de-France, France",restaurant,Paris,75014.0,14.0,intermediaire
+Chantoiseau,49.5,5.0,1291,63 Rue Lepic,"Paris, Ile-de-France, France",restaurant francais,Paris,75018.0,18.0,peripherie
+Mallory Gabsi,100.0,5.0,2341,28 Rue des Acacias,"Paris, Ile-de-France, France",restaurant,Paris,75017.0,17.0,peripherie
+Tigermilk Sentier - Paris 2,25.0,5.0,8475,77 Rue dAboukir,"Paris, Ile-de-France, France",restaurant,Paris,75002.0,2.0,centre
+Kozy Bosquet,15.0,5.0,12406,79 Av. Bosquet,"Paris, Ile-de-France, France",cafe,Paris,75007.0,7.0,centre
+La Felicita,15.0,5.0,36220,5 Parv. Alan Turing,"Paris, Ile-de-France, France",pizzeria,Paris,75013.0,13.0,intermediaire
+Stellar by Ephemera,30.0,5.0,20157,45 Rue Saint-Sebastien,"Paris, Ile-de-France, France",restaurant,Paris,75011.0,11.0,intermediaire
+Peppe Pizzeria Martyrs,25.0,5.0,13389,61 R. des Martyrs,"Paris, Ile-de-France, France",pizzeria,Paris,75009.0,9.0,centre
+Derya,25.0,5.0,3896,16 Rue du Faubourg Saint Denis,"Paris, Ile-de-France, France",restaurant,Paris,75010.0,10.0,intermediaire
+Les Parisiens Restaurant by Thibault Sombardier,100.0,5.0,1522,1 Rue du Pre aux Clercs,"Paris, Ile-de-France, France",restaurant francais,Paris,75007.0,7.0,centre
+Passionne Restaurant,100.0,5.0,4462,17 Rue Bergere,"Paris, Ile-de-France, France",restaurant francais,Paris,75009.0,9.0,centre
+Le Viaduc,15.0,5.0,5600,43 Av. Daumesnil,"Paris, Ile-de-France, France",cafe,Paris,75012.0,12.0,intermediaire
+East Mamma,25.0,5.0,24756,133 Rue du Faubourg Saint-Antoine,"Paris, Ile-de-France, France",pizzeria,Paris,75011.0,11.0,intermediaire
+Orgueil,35.0,5.0,7688,6 Rue Popincourt,"Paris, Ile-de-France, France",restaurant francais,Paris,75011.0,11.0,intermediaire
+Le Violon dIngres,100.0,5.0,4209,135 Rue Saint-Dominique,"Paris, Ile-de-France, France",restaurant francais,Paris,75007.0,7.0,centre
+Datil,100.0,5.0,845,13 Rue des Gravilliers,"Paris, Ile-de-France, France",restaurant,Paris,75003.0,3.0,centre
+Maslow 1er,25.0,5.0,15761,14 Quai de la Megisserie,"Paris, Ile-de-France, France",restaurant,Paris,75001.0,1.0,centre
+Mandoobar,40.0,5.0,2652,7 Rue dEdimbourg,"Paris, Ile-de-France, France",restaurant coreens,Paris,75008.0,8.0,centre
+Grand Cafe Capucines,37.0,5.0,19271,4 Boulevard des Capucines,"Paris, Ile-de-France, France",cafe,Paris,75009.0,9.0,centre
+Brigade du Tigre,23.5,5.0,2533,38 Rue du Faubourg Poissonniere,"Paris, Ile-de-France, France",restaurant asiatiques,Paris,75010.0,10.0,intermediaire
+adraba,51.0,5.0,1571,40 Rue Veron,"Paris, Ile-de-France, France",restaurant,Paris,75018.0,18.0,peripherie
+Nai Nai - Bistrot chic asiatique,25.0,5.0,6117,93 Rue de la Victoire,"Paris, Ile-de-France, France",restaurant,Paris,75009.0,9.0,centre
+Le Jules Verne,100.0,5.0,7871,"Avenue Gustave Eiffel 2eme, Eiffel Tower, Av. Anatole France","Paris, Ile-de-France, France",restaurant francais,Paris,75007.0,7.0,centre
+ONYX,56.0,5.0,12097,71 Rue de Provence,"Paris, Ile-de-France, France",restaurant francais,Paris,75009.0,9.0,centre
+Epicure,100.0,5.0,5082,112 Rue du Faubourg Saint-Honore,"Paris, Ile-de-France, France",restaurant,Paris,75008.0,8.0,centre
+Virtus,100.0,5.0,1981,29 Rue de Cotte,"Paris, Ile-de-France, France",restaurant francais,Paris,75012.0,12.0,intermediaire
+Riviera Fuga,55.0,5.0,7479,10 Port des Invalides,"Paris, Ile-de-France, France",restaurant,Paris,75007.0,7.0,centre
+Kasumi - Fusion Japonaise,30.0,5.0,7142,38 Rue Balard,"Paris, Ile-de-France, France",restaurant,Paris,75015.0,15.0,intermediaire
+Brasserie LAlsace,30.0,5.0,21156,39 Av. des Champs-Elysees,"Paris, Ile-de-France, France",cafe,Paris,75008.0,8.0,centre
+Kodawari Ramen Yokocho,25.0,5.0,16684,29 Rue Mazarine,"Paris, Ile-de-France, France",restaurant,Paris,75006.0,6.0,centre
+Buffet Gourmet,25.0,5.0,698,46 Rue Vavin,"Paris, Ile-de-France, France",cafeteria,Paris,75006.0,6.0,centre
+PEPPE PIZZERIA Etienne Marcel,25.0,5.0,6491,11 Rue Etienne Marcel,"Paris, Ile-de-France, France",pizzeria,Paris,75001.0,1.0,centre
+Faubourg Daimant,15.0,5.0,3538,20 Rue du Faubourg Poissonniere,"Paris, Ile-de-France, France",restaurant vegetariens,Paris,75010.0,10.0,intermediaire
+Cinquecento,25.0,5.0,6879,38 Rue Saint Denis,"Paris, Ile-de-France, France",pizzeria,Paris,75001.0,1.0,centre
+Kozy Montmartre All-week Brunch Coffee,15.0,5.0,7144,5 bis Rue la Vieuville,"Paris, Ile-de-France, France",cafe,Paris,75018.0,18.0,peripherie
+Al Solito Posto,15.0,5.0,8010,91 Rue Saint-Martin,"Paris, Ile-de-France, France",pizzeria,Paris,75004.0,4.0,centre
+Isshin Ramen,15.0,5.0,9374,168 Rue Montmartre,"Paris, Ile-de-France, France",restaurant,Paris,75002.0,2.0,centre
+Chez Pippo,25.0,5.0,10613,31 Av. de la Bourdonnais,"Paris, Ile-de-France, France",pizzeria,Paris,75007.0,7.0,centre
+Pink Mamma,30.0,5.0,50145,20bis Rue de Douai,"Paris, Ile-de-France, France",restaurant,Paris,75009.0,9.0,centre
+Restaurant Guy Savoy,100.0,5.0,4668,11 Quai de Conti,"Paris, Ile-de-France, France",restaurant,Paris,75006.0,6.0,centre
+SHINKO OPERA,15.0,5.0,11355,27 Bd des Italiens,"Paris, Ile-de-France, France",restaurant japonais,Paris,75002.0,2.0,centre
+Kozy,15.0,5.0,11226,6 Rue du Petit Pont,"Paris, Ile-de-France, France",cafe,Paris,75005.0,5.0,centre
+Aux Lyonnais,32.0,5.0,2326,32 Rue Saint-Marc,"Paris, Ile-de-France, France",restaurant francais,Paris,75002.0,2.0,centre
+LOiseau Blanc,100.0,5.0,3393,19 Av. Kleber,"Paris, Ile-de-France, France",restaurant francais,Paris,75116.0,16.0,peripherie
+Ground Control,15.0,5.0,15855,81 Rue Du Charolais,"Paris, Ile-de-France, France",pub et bar,Paris,75012.0,12.0,intermediaire
+Le Coq Fils - the Poultry House,32.0,5.0,6106,98 Rue Lepic,"Paris, Ile-de-France, France",restaurant francais,Paris,75018.0,18.0,peripherie
+La Coupole,43.0,5.0,24807,102 Boulevard du Montparnasse,"Paris, Ile-de-France, France",restaurant,Paris,75014.0,14.0,intermediaire
+Pizzeria Popolare,25.0,5.0,45771,111 Rue Reaumur,"Paris, Ile-de-France, France",pizzeria,Paris,75002.0,2.0,centre
+Mian Fan Dumpling Factory Paris 2,15.0,5.0,4367,15 Bd Montmartre,"Paris, Ile-de-France, France",restaurant,Paris,75002.0,2.0,centre
+Moka Brunch Coffee - Champs Elysees,15.0,5.0,1706,11 Rue du Colisee,"Paris, Ile-de-France, France",restaurant,Paris,75008.0,8.0,centre
+GRUPPOMIMO - Paris 2,25.0,5.0,19223,157 Rue Montmartre,"Paris, Ile-de-France, France",pizzeria,Paris,75002.0,2.0,centre
+Canard Champagne - French Paradoxe,35.0,5.0,3944,57 Pass. des Panoramas,"Paris, Ile-de-France, France",restaurant francais,Paris,75002.0,2.0,centre
+Terrys Cafe,25.0,5.0,14357,60 Bd du Montparnasse,"Paris, Ile-de-France, France",cafe,Paris,75015.0,15.0,intermediaire
+Le Nouvel Institut,15.0,5.0,5652,1 Boulevard Saint-Germain,"Paris, Ile-de-France, France",cafe,Paris,75005.0,5.0,centre
+Matignon,100.0,5.0,8016,3 Av. Matignon,"Paris, Ile-de-France, France",club,Paris,75008.0,8.0,centre
+La petite Bleue Brunch Coffee - Opera,25.0,5.0,10353,13 Rue Auber,"Paris, Ile-de-France, France",cafe,Paris,75009.0,9.0,centre
+Francette,28.0,5.0,7947,1 Port de Suffren,"Paris, Ile-de-France, France",restaurant,Paris,75007.0,7.0,centre
+Matin des Oliviers,25.0,5.0,5389,2 Rue de lEchelle,"Paris, Ile-de-France, France",restaurant,Paris,75001.0,1.0,centre
+Vins Des Pyrenees,28.5,5.0,2448,25 Rue Beautreillis,"Paris, Ile-de-France, France",restaurant francais,Paris,75004.0,4.0,centre
+Le Tout-Paris,100.0,5.0,2127,8 Quai du Louvre,"Paris, Ile-de-France, France",restaurant,Paris,75001.0,1.0,centre
+Kozy Kanope All-week Brunch Coffee,15.0,5.0,12960,46 Rue La Fayette,"Paris, Ile-de-France, France",cafe,Paris,75009.0,9.0,centre
+Le Fumoir,15.0,5.0,7223,6 Rue de Admiral Coligny,"Paris, Ile-de-France, France",restaurant,Paris,75001.0,1.0,centre
+Breizh Cafe Odeon La Crepe Autrement,25.0,5.0,3465,1 Rue de lOdeon,"Paris, Ile-de-France, France",cafe,Paris,75006.0,6.0,centre
+GRUPPOMIMO - Restaurant Italien Paris 11,25.0,5.0,9744,24 Rue Keller,"Paris, Ile-de-France, France",restaurant,Paris,75011.0,11.0,intermediaire
+Le Christine,100.0,5.0,4381,1 Rue Christine,"Paris, Ile-de-France, France",restaurant francais,Paris,75006.0,6.0,centre
+Liza,39.0,5.0,3192,14 Rue de la Banque,"Paris, Ile-de-France, France",restaurant,Paris,75002.0,2.0,centre
+Le Cinq,100.0,5.0,4385,31 Av. George V,"Paris, Ile-de-France, France",restaurant francais,Paris,75008.0,8.0,centre
+Le Clarence,205.0,5.0,1696,31 Av. Franklin Delano Roosevelt,"Paris, Ile-de-France, France",restaurant francais,Paris,75008.0,8.0,centre
+FIEF Fait Ici En France,100.0,5.0,1491,44 Rue de la Folie Mericourt,"Paris, Ile-de-France, France",restaurant francais,Paris,75011.0,11.0,intermediaire
+La Table de Colette,100.0,5.0,2704,17 Rue Laplace,"Paris, Ile-de-France, France",restaurant francais,Paris,75005.0,5.0,centre
+Biwan iRASSHAi,25.0,5.0,2185,40 Rue du Louvre,"Paris, Ile-de-France, France",restaurant japonais,Paris,75001.0,1.0,centre
+La Casa di Alfio,25.0,5.0,8371,43 Av. de la Bourdonnais,"Paris, Ile-de-France, France",pizzeria,Paris,75007.0,7.0,centre
+Mian Fan,15.0,5.0,6530,20 Rue de Mogador,"Paris, Ile-de-France, France",restaurant,Paris,75009.0,9.0,centre
+La Cremaillere 1900,23.5,5.0,10514,15 Pl. du Tertre,"Paris, Ile-de-France, France",restaurant francais,Paris,75018.0,18.0,peripherie
+ANONA,100.0,5.0,1630,80 Bd des Batignolles,"Paris, Ile-de-France, France",restaurant francais,Paris,75017.0,17.0,peripherie
+Ti Amo - Chatelet-les-Halles,15.0,5.0,3352,25 Rue de la Reynie,"Paris, Ile-de-France, France",restaurant,Paris,75001.0,1.0,centre
+Toppoki,15.0,5.0,4202,109 Bd Saint-Germain,"Paris, Ile-de-France, France",restaurant,Paris,75006.0,6.0,centre
+Le Carre Elysee,30.0,5.0,4293,49 Av. Franklin Delano Roosevelt,"Paris, Ile-de-France, France",cafe,Paris,75008.0,8.0,centre
+La Maison de lAubrac,30.5,5.0,11125,37 Rue Marbeuf,"Paris, Ile-de-France, France",restaurant francais,Paris,75008.0,8.0,centre
+Fuuki,15.0,5.0,4184,113 Rue du Chevaleret,"Paris, Ile-de-France, France",restaurant,Paris,75013.0,13.0,intermediaire
+Bouillon Chartier,15.0,5.0,20245,59 Bd du Montparnasse,"Paris, Ile-de-France, France",restaurant francais,Paris,75015.0,15.0,intermediaire
+Chez Gladines Saint Germain,25.0,5.0,3569,44 Bd Saint-Germain,"Paris, Ile-de-France, France",restaurant,Paris,75005.0,5.0,centre
+Restaurant Numidia,15.0,5.0,10249,126 Rue dAvron,"Paris, Ile-de-France, France",restaurant algeriens,Paris,75020.0,20.0,peripherie
+LAtelier de Joel Robuchon Etoile - Champs-Elysees,100.0,5.0,5672,"Publicis Drugstore, 133 Av. des Champs-Elysees","Paris, Ile-de-France, France",restaurant francais,Paris,75008.0,8.0,centre
+Mont Frenchy,25.0,5.0,5921,56 Bd du Montparnasse,"Paris, Ile-de-France, France",restaurant francais,Paris,75015.0,15.0,intermediaire
+Chakaiseki Akiyoshi,100.0,5.0,970,59 Rue Letellier,"Paris, Ile-de-France, France",restaurant japonais,Paris,75015.0,15.0,intermediaire
+Au Pied de Cochon,34.5,5.0,29600,6 Rue Coquilliere,"Paris, Ile-de-France, France",restaurant,Paris,75001.0,1.0,centre
+Brasserie Des Pres,30.0,5.0,6647,6 Cr du Commerce Saint-Andre,"Paris, Ile-de-France, France",cafe,Paris,75006.0,6.0,centre
+Fuwa Fuwa,15.0,5.0,1742,16 Rue dArgenteuil,"Paris, Ile-de-France, France",desserts,Paris,75001.0,1.0,centre
+Choubidou Bastille,5.5,5.0,1152,71 Rue de Lyon,"Paris, Ile-de-France, France",restaurant,Paris,75012.0,12.0,intermediaire
+La Fontaine de Mars,30.5,5.0,5427,129 Rue Saint-Dominique,"Paris, Ile-de-France, France",restaurant,Paris,75007.0,7.0,centre
+Bofinger,43.0,5.0,19121,5-7 Rue de la Bastille,"Paris, Ile-de-France, France",restaurant francais,Paris,75004.0,4.0,centre
+Le Train Bleu,32.0,5.0,44686,"Gare de Lyon, Pl. Louis Armand hall 1","Paris, Ile-de-France, France",restaurant francais,Paris,75012.0,12.0,intermediaire
+etsi - le bistro,40.0,5.0,1689,23 Rue Eugene Carriere,"Paris, Ile-de-France, France",restaurant,Paris,75018.0,18.0,peripherie
+Laduree Champs-Elysees,35.0,5.0,30433,75 Av. des Champs-Elysees,"Paris, Ile-de-France, France",desserts,Paris,75008.0,8.0,centre
+Les Deux Magots,32.0,5.0,18705,6 Pl. Saint-Germain des Pres,"Paris, Ile-de-France, France",cafe,Paris,75006.0,6.0,centre
+"Angelina Paris Rivoli, Salon de the historique",20.0,5.0,44686,226 Rue de Rivoli,"Paris, Ile-de-France, France",desserts,Paris,75001.0,1.0,centre
+Madame Brasserie - Tour Eiffel,100.0,5.0,7930,"Eiffel Tower, 1er","Paris, Ile-de-France, France",restaurant,Paris,75007.0,7.0,centre
+Bateaux-Mouches,79.0,5.0,31013,Port de la Conference,"Paris, Ile-de-France, France",restaurant,Paris,75008.0,8.0,centre
+Capsule Restaurant,40.0,5.0,517,2 Rue Cassini,"Paris, Ile-de-France, France",restaurant,Paris,75014.0,14.0,intermediaire
+Monsieur Bleu,100.0,5.0,7591,"Palais De Tokyo, 20 Avenue De New York","Paris, Ile-de-France, France",restaurant francais,Paris,75116.0,16.0,peripherie
+Pierre Sang In Oberkampf,34.5,5.0,4831,55 Rue Oberkampf,"Paris, Ile-de-France, France",restaurant,Paris,75011.0,11.0,intermediaire
+Gros Bao - Paris,25.0,5.0,8231,72 Quai de Jemmapes,"Paris, Ile-de-France, France",restaurant chinois,Paris,75010.0,10.0,intermediaire
+Benoit Paris,100.0,5.0,5637,20 Rue Saint-Martin,"Paris, Ile-de-France, France",restaurant francais,Paris,75004.0,4.0,centre
+Rosa Bonheur Buttes Chaumont,15.0,5.0,4303,2 Av. de la Cascade,"Paris, Ile-de-France, France",pub et bar,Paris,75019.0,19.0,peripherie
+Alea,30.0,5.0,1092,39 Rue Lamarck,"Paris, Ile-de-France, France",restaurant francais,Paris,75018.0,18.0,peripherie
+Breizh Cafe Marais La Crepe Autrement,25.0,5.0,8237,109 Rue Vieille du Temple,"Paris, Ile-de-France, France",cafe,Paris,75003.0,3.0,centre
+La REcyclerie,25.0,5.0,10555,83 Bd Ornano,"Paris, Ile-de-France, France",restaurant francais,Paris,75018.0,18.0,peripherie
+Loulou,25.0,5.0,11969,90 Bd Saint-Germain,"Paris, Ile-de-France, France",restaurant,Paris,75005.0,5.0,centre
+Harrys Bar Paris,15.0,5.0,6154,5 Rue Daunou,"Paris, Ile-de-France, France",bars a cocktails,Paris,75002.0,2.0,centre
+Sushi Way Forum des Halles,15.0,5.0,4086,"101 Porte Berger, Lot 07","Paris, Ile-de-France, France",sushis,Paris,75001.0,1.0,centre
+Caillebotte,24.0,5.0,2242,8 Rue Hippolyte Lebas,"Paris, Ile-de-France, France",restaurant,Paris,75009.0,9.0,centre
+Le Cafe Marly,32.5,5.0,18712,93 Rue de Rivoli,"Paris, Ile-de-France, France",cafe,Paris,75001.0,1.0,centre
+Black Angus Republique,35.0,5.0,11037,8 Pl. de la Republique,"Paris, Ile-de-France, France",restaurant francais,Paris,75011.0,11.0,intermediaire
+Le Pre Catelan,240.0,5.0,3428,Bois de Boulogne,"Paris, Ile-de-France, France",restaurant,Paris,75016.0,16.0,peripherie
+Le Petit Cler,25.0,5.0,4054,29 Rue Cler,"Paris, Ile-de-France, France",restaurant,Paris,75007.0,7.0,centre
+BRU Paris,40.0,5.0,506,28 Rue Jean-Baptiste Pigalle,"Paris, Ile-de-France, France",restaurant,Paris,75009.0,9.0,centre
+Bouillon Chartier Grands Boulevards,15.0,5.0,51579,7 Rue du Faubourg Montmartre,"Paris, Ile-de-France, France",restaurant francais,Paris,75009.0,9.0,centre
+Le Wepler,30.5,5.0,6416,14 Pl. de Clichy,"Paris, Ile-de-France, France",restaurant,Paris,75018.0,18.0,peripherie
+Brasserie Dubillot,25.0,5.0,9138,222 Rue St Denis,"Paris, Ile-de-France, France",restaurant francais,Paris,75002.0,2.0,centre
+Les Resistants,32.5,5.0,2070,16 Rue du Chateau dEau,"Paris, Ile-de-France, France",restaurant francais,Paris,75010.0,10.0,intermediaire
+Immersion Vendome,25.0,5.0,7187,"Immersion Vendome, 23 Rue Danielle Casanova","Paris, Ile-de-France, France",cafe,Paris,75001.0,1.0,centre
+Les Ombres,105.0,5.0,9394,27 Quai Jacques Chirac,"Paris, Ile-de-France, France",restaurant francais,Paris,75007.0,7.0,centre
+LAtelier De Joel Robuchon Saint-Germain,100.0,5.0,8820,5 Rue de Montalembert,"Paris, Ile-de-France, France",restaurant francais,Paris,75007.0,7.0,centre
+Rooster par Frederic Duca,100.0,5.0,1429,137 Rue Cardinet,"Paris, Ile-de-France, France",restaurant francais,Paris,75017.0,17.0,peripherie
+Mama Restaurant Paris West,35.0,5.0,2970,20 Av. de la Prte de la Plaine,"Paris, Ile-de-France, France",restaurant,Paris,75015.0,15.0,intermediaire
+Folie Crabe Etienne Marcel,15.0,5.0,3315,6 Rue Etienne Marcel,"Paris, Ile-de-France, France",fruits de mer,Paris,75002.0,2.0,centre
+WALY-FAY,35.0,5.0,3069,6 Rue Godefroy Cavaignac,"Paris, Ile-de-France, France",restaurant africains,Paris,75011.0,11.0,intermediaire
+Flora Danica,49.5,5.0,10155,142 Avenue des Champs-Elysees,"Paris, Ile-de-France, France",restaurant danois,Paris,75008.0,8.0,centre
+Shodai Matcha Paris,15.0,5.0,5601,19 Rue Saint-Augustin,"Paris, Ile-de-France, France",desserts,Paris,75002.0,2.0,centre
+Frenchie,100.0,5.0,5114,5 Rue du Nil,"Paris, Ile-de-France, France",restaurant francais,Paris,75002.0,2.0,centre
+Auteuil Brasserie,30.0,5.0,13088,78 Rue dAuteuil,"Paris, Ile-de-France, France",restaurant,Paris,75016.0,16.0,peripherie
+Ose,41.5,5.0,638,3 Rue Durantin,"Paris, Ile-de-France, France",restaurant francais,Paris,75018.0,18.0,peripherie
+LAtelier Artisan Crepier,25.0,5.0,6511,32 Cr Saint-Emilion,"Paris, Ile-de-France, France",desserts,Paris,75012.0,12.0,intermediaire
+McDonalds,15.0,5.0,8369,"Rue De Provence, 96","Paris, Ile-de-France, France",fast food,Paris,75009.0,9.0,centre
+Bistrot Instinct,42.0,5.0,1894,19 Rue de Picardie,"Paris, Ile-de-France, France",restaurant francais,Paris,75003.0,3.0,centre
+Les Antiquaires,15.0,5.0,11140,13 Rue du Bac,"Paris, Ile-de-France, France",restaurant francais,Paris,75007.0,7.0,centre
+Loulou,53.5,5.0,7022,107 Rue de Rivoli,"Paris, Ile-de-France, France",restaurant,Paris,75001.0,1.0,centre
+Joayo13 - Restaurant Coreen Karaoke,25.0,5.0,3646,44 Avenue De Choisy,"Paris, Ile-de-France, France",restaurant,Paris,75013.0,13.0,intermediaire
+Bistro LOlivier,30.0,4.9,5968,88 Rue Ordener,"Paris, Ile-de-France, France",restaurant,Paris,75018.0,18.0,peripherie
+Candelaria,25.0,4.9,6614,52 Rue de Saintonge,"Paris, Ile-de-France, France",pub et bar,Paris,75003.0,3.0,centre
+MALA MALA,15.0,4.9,2794,324 Rue Saint-Martin,"Paris, Ile-de-France, France",restaurant chinois,Paris,75003.0,3.0,centre
+La Taverne de Zhaosaint germain des pres,15.0,4.9,3032,82 Rue Mazarine,"Paris, Ile-de-France, France",restaurant chinois,Paris,75006.0,6.0,centre
+Restaurant Super Huit Paris 8,55.0,4.9,452,95 Rue de Miromesnil,"Paris, Ile-de-France, France",restaurant francais,Paris,75008.0,8.0,centre
+Trattoria en Seine,49.0,4.9,4449,2 Rue du Ranelagh,"Paris, Ile-de-France, France",restaurant,Paris,75016.0,16.0,peripherie
+Tekes,70.0,4.9,1387,4 bis Rue Saint-Sauveur,"Paris, Ile-de-France, France",restaurant israeliens,Paris,75002.0,2.0,centre
+McDonalds,15.0,4.9,3848,9 Bd de la Madeleine,"Paris, Ile-de-France, France",fast food,Paris,75001.0,1.0,centre
+Burger King,15.0,4.9,22532,79-81 Quai De La Gare,"Paris, Ile-de-France, France",fast food,Paris,75013.0,13.0,intermediaire
+ANDIA,32.5,4.9,13185,19 Chau. de la Muette,"Paris, Ile-de-France, France",restaurant francais,Paris,75016.0,16.0,peripherie
+Le Petit Bouillon Pharamond,25.0,4.9,9003,24 Rue de la Grande Truanderie,"Paris, Ile-de-France, France",restaurant francais,Paris,75001.0,1.0,centre
+Milagro,140.5,4.9,986,85 Av. Bosquet,"Paris, Ile-de-France, France",restaurant,Paris,75007.0,7.0,centre
+Azur Cafe Champs-Elysees - Brunch Coffee Shop Lunch,25.0,4.9,9680,63 Rue de Ponthieu,"Paris, Ile-de-France, France",cafe,Paris,75008.0,8.0,centre
+Latelier Entrecote Volaille,35.0,4.9,4064,21 Bd Beaumarchais,"Paris, Ile-de-France, France",restaurant francais,Paris,75004.0,4.0,centre
+Chez Janou,30.0,4.9,10888,2 Rue Roger Verlomme,"Paris, Ile-de-France, France",restaurant,Paris,75003.0,3.0,centre
+Origines Paris,100.0,4.9,1366,6 Rue De Ponthieu,"Paris, Ile-de-France, France",restaurant,Paris,75008.0,8.0,centre
+Cafe Oz Rooftop - The Australian Bar,20.0,4.9,11909,"Cite de la Mode et du Design, 34 Quai dAusterlitz","Paris, Ile-de-France, France",cafe georgien,Paris,75013.0,13.0,intermediaire
+Melagodo,25.0,4.9,4646,10 Rue Nelaton,"Paris, Ile-de-France, France",restaurant,Paris,75015.0,15.0,intermediaire
+MELT,25.0,4.9,8880,74 Rue de la Folie Mericourt,"Paris, Ile-de-France, France",restaurant,Paris,75011.0,11.0,intermediaire
+Allard,100.0,4.9,3155,41 Rue Saint-Andre des Arts,"Paris, Ile-de-France, France",restaurant francais,Paris,75006.0,6.0,centre
+La Taverne De ZHAOBastille,15.0,4.9,1595,67 Rue de la Roquette,"Paris, Ile-de-France, France",restaurant chinois,Paris,75011.0,11.0,intermediaire
+Pizzeria Maria,15.0,4.9,2308,21 Rue de Picardie,"Paris, Ile-de-France, France",pizzeria,Paris,75003.0,3.0,centre
+Cafe Odessa - Brasserie parisienne tendance,15.0,4.9,4883,28 Rue dOdessa,"Paris, Ile-de-France, France",cafe,Paris,75014.0,14.0,intermediaire
+La Patisserie du Meurice par Cedric Grolet,15.0,4.9,3882,6 Rue de Castiglione,"Paris, Ile-de-France, France",desserts,Paris,75001.0,1.0,centre
+Le Pantruche,22.5,4.9,2088,3 Rue Victor Masse,"Paris, Ile-de-France, France",restaurant francais,Paris,75009.0,9.0,centre
+Le Drugstore,41.0,4.9,6830,133 Av. des Champs-Elysees,"Paris, Ile-de-France, France",restaurant francais,Paris,75008.0,8.0,centre
+Mina Mahal,25.0,4.9,1787,25 Rue Cambronne,"Paris, Ile-de-France, France",restaurant,Paris,75015.0,15.0,intermediaire
+Chez Zhong,15.0,4.9,4683,69 Av. Kleber,"Paris, Ile-de-France, France",restaurant,Paris,75116.0,16.0,peripherie
+Pocha,25.0,4.9,1954,82 Bd du Montparnasse,"Paris, Ile-de-France, France",restaurant coreens,Paris,75014.0,14.0,intermediaire
+Ose African Cuisine Voltaire,15.0,4.9,1650,4 Ave Parmentier,"Paris, Ile-de-France, France",fast food,Paris,75011.0,11.0,intermediaire
+Sharma Ji,20.5,4.9,880,16 Rue Fremicourt,"Paris, Ile-de-France, France",restaurant indiens,Paris,75015.0,15.0,intermediaire
+Le Morello Restaurant italien Paris,30.0,4.9,3147,20 Rue Clapeyron,"Paris, Ile-de-France, France",restaurant,Paris,75008.0,8.0,centre
+Nach Paris17,15.0,4.9,2021,74 Av. de Clichy,"Paris, Ile-de-France, France",fast food,Paris,75017.0,17.0,peripherie
+LAmbroisie,100.0,4.9,1571,9 Pl. des Vosges,"Paris, Ile-de-France, France",restaurant francais,Paris,75004.0,4.0,centre
+Pho Tai,15.0,4.9,3388,13 Rue Philibert Lucot,"Paris, Ile-de-France, France",restaurant vietnamiens,Paris,75013.0,13.0,intermediaire
+Vapiano Paris Champs Elysees Pasta Pizza Bar,15.0,4.9,12635,36 Rue Marbeuf,"Paris, Ile-de-France, France",pizzeria,Paris,75008.0,8.0,centre
+Le Dulcinea,25.0,4.9,5766,41 Rue Pierre Fontaine,"Paris, Ile-de-France, France",pizzeria,Paris,75009.0,9.0,centre
+GrandCur,79.0,4.9,3076,41 Rue du Temple,"Paris, Ile-de-France, France",restaurant francais,Paris,75004.0,4.0,centre
+Eataly,30.0,4.9,24790,37 Rue Sainte-croix De La Bretonnerie,"Paris, Ile-de-France, France",pizzeria,Paris,75004.0,4.0,centre
+MELT Cambronne,25.0,4.9,4805,103 Rue Cambronne,"Paris, Ile-de-France, France",restaurant,Paris,75015.0,15.0,intermediaire
+CHARLY SAINT-HONORE,25.0,4.9,3096,36 Place du Marche Saint Honore,"Paris, Ile-de-France, France",restaurant americains,Paris,75001.0,1.0,centre
+Le Raidd Bar,15.0,4.9,1449,23 Rue du Temple,"Paris, Ile-de-France, France",pub et bar,Paris,75004.0,4.0,centre
+Eunoe,38.5,4.9,1013,6 Rue Rochebrune,"Paris, Ile-de-France, France",restaurant,Paris,75011.0,11.0,intermediaire
+Bistrot Paul Bert,52.5,4.9,3674,18 Rue Paul Bert,"Paris, Ile-de-France, France",restaurant francais,Paris,75011.0,11.0,intermediaire
+Le Camondo,42.5,4.9,2471,61bis Rue de Monceau,"Paris, Ile-de-France, France",restaurant francais,Paris,75008.0,8.0,centre
+Langosteria,100.0,4.9,1155,"Cheval Blanc Paris, 8 Quai du Louvre","Paris, Ile-de-France, France",restaurant,Paris,75001.0,1.0,centre
+Le Cafe du Commerce,30.0,4.9,9165,51 Rue du Commerce,"Paris, Ile-de-France, France",cafe,Paris,75015.0,15.0,intermediaire
+LOsteria Paris Chatelet,25.0,4.9,2389,27 Rue Aubry Le Boucher,"Paris, Ile-de-France, France",restaurant italiens,Paris,75004.0,4.0,centre
+Nous4 Cuisine Bistronomique,34.0,4.9,1158,3 Rue Beccaria,"Paris, Ile-de-France, France",restaurant francais,Paris,75012.0,12.0,intermediaire
+Isshin Ramen specialites de ramen de Kyushu,15.0,4.9,1457,84 Rue Baudricourt,"Paris, Ile-de-France, France",restaurant,Paris,75013.0,13.0,intermediaire
+Kokodak Paris 6 - Restaurant Coreen,25.0,4.9,1586,22 Rue des Canettes,"Paris, Ile-de-France, France",restaurant,Paris,75006.0,6.0,centre
+Delhi Bazaar,25.0,4.9,5451,71 Rue Servan,"Paris, Ile-de-France, France",restaurant indiens,Paris,75011.0,11.0,intermediaire
+Bistro Mon Reve,25.0,4.9,1317,68 Av. Felix Faure,"Paris, Ile-de-France, France",restaurant,Paris,75015.0,15.0,intermediaire
+Geosmine,100.0,4.9,916,71 Rue de la Folie Mericourt,"Paris, Ile-de-France, France",restaurant,Paris,75011.0,11.0,intermediaire
+A Table,35.0,4.9,389,28 Rue du General Bertrand,"Paris, Ile-de-France, France",restaurant francais,Paris,75007.0,7.0,centre
+Le Cyrano,30.0,4.9,1109,3 Rue Biot,"Paris, Ile-de-France, France",pub et bar,Paris,75017.0,17.0,peripherie
+Dalmata,25.0,4.9,10748,21 Rue de Charonne,"Paris, Ile-de-France, France",pizzeria,Paris,75011.0,11.0,intermediaire
+Le Chardenoux Cyril Lignac,53.5,4.9,3937,1 Rue Jules Valles,"Paris, Ile-de-France, France",restaurant francais,Paris,75011.0,11.0,intermediaire
+LEvade,34.0,4.9,923,23 Rue Clauzel,"Paris, Ile-de-France, France",restaurant,Paris,75009.0,9.0,centre
+Le Petit Cambodge,25.0,4.9,2605,24 Avenue Claude Vellefaux,"Paris, Ile-de-France, France",restaurant,Paris,75010.0,10.0,intermediaire
+Le Caribeen Paris 10,15.0,4.9,1390,99 Rue du Faubourg Saint-Denis,"Paris, Ile-de-France, France",fast food,Paris,75010.0,10.0,intermediaire
+Kome Kome,15.0,4.9,2145,43 Rue de Caumartin,"Paris, Ile-de-France, France",restaurant,Paris,75009.0,9.0,centre
+LE PARISIEN,20.0,4.9,2564,72 Bd de Magenta,"Paris, Ile-de-France, France",cafe georgien,Paris,75010.0,10.0,intermediaire
+LAtelier Entrecote Volaille,35.0,4.9,6181,128 Rue Reaumur,"Paris, Ile-de-France, France",restaurant francais,Paris,75002.0,2.0,centre
+Restaurant Mache,100.0,4.9,1016,61 Rue de Chabrol,"Paris, Ile-de-France, France",restaurant francais,Paris,75010.0,10.0,intermediaire
+Gran Caffe Convivium,32.0,4.9,9565,28 Rue Marbeuf,"Paris, Ile-de-France, France",restaurant italiens,Paris,75008.0,8.0,centre
+Amalia Restaurant,100.0,4.9,338,32 Rue de la Fontaine au Roi,"Paris, Ile-de-France, France",restaurant,Paris,75011.0,11.0,intermediaire
+Le Malakoff,25.0,4.9,4186,6 Pl. du Trocadero et du 11 Novembre,"Paris, Ile-de-France, France",restaurant francais,Paris,75116.0,16.0,peripherie
+Folies Pigalle,15.0,4.9,2033,11 Pl. Pigalle,"Paris, Ile-de-France, France",club,Paris,75009.0,9.0,centre
+Le Royal,25.0,4.9,3049,1 Place Andre Malraux,"Paris, Ile-de-France, France",restaurant,Paris,75001.0,1.0,centre
+Akabeko,100.0,4.9,873,40 Rue de lUniversite,"Paris, Ile-de-France, France",restaurant,Paris,75007.0,7.0,centre
+Julia,15.0,4.9,2559,83 Rue Mouffetard,"Paris, Ile-de-France, France",fast food,Paris,75005.0,5.0,centre
+Union Square,15.0,4.9,9342,17 Rue Saint-Severin,"Paris, Ile-de-France, France",restaurant,Paris,75005.0,5.0,centre
+Le Bistrot des Fables,60.0,4.9,491,139 Rue Saint-Dominique,"Paris, Ile-de-France, France",restaurant francais,Paris,75007.0,7.0,centre
+LEscudella,34.0,4.9,1387,41 Av. de Segur,"Paris, Ile-de-France, France",restaurant francais,Paris,75007.0,7.0,centre
+La Petite Bouclerie,15.0,4.9,4269,33 Rue de la Harpe,"Paris, Ile-de-France, France",desserts,Paris,75005.0,5.0,centre
+Constant. Cafe,5.5,4.9,286,3 Rue Augereau,"Paris, Ile-de-France, France",cafe georgien,Paris,75007.0,7.0,centre
+TIVOLI BRASSERIE ITALIENNE,25.0,4.9,3842,5 Rue La Fayette,"Paris, Ile-de-France, France",pizzeria,Paris,75009.0,9.0,centre
+Maison Cluny,18.0,4.9,845,3 Rue de Cluny,"Paris, Ile-de-France, France",restaurant,Paris,75005.0,5.0,centre
+RESTAURANT ERH,100.0,4.9,1433,11 Rue Tiquetonne,"Paris, Ile-de-France, France",restaurant,Paris,75002.0,2.0,centre
+JAMROCK PARIS,35.0,4.9,1301,16 Rue de Candie,"Paris, Ile-de-France, France",restaurant jamaicains,Paris,75011.0,11.0,intermediaire
+Les Turbines,20.0,4.9,4390,21 R. de Turbigo,"Paris, Ile-de-France, France",pizzeria,Paris,75002.0,2.0,centre
+Bistro Aldo,25.0,4.9,5863,81 Boulevard de Strasbourg,"Paris, Ile-de-France, France",cafe,Paris,75010.0,10.0,intermediaire
+Brasserie Lipp,36.5,4.9,10727,151 Bd Saint-Germain,"Paris, Ile-de-France, France",restaurant,Paris,75006.0,6.0,centre
+Petit Boutary,48.5,4.9,1924,16 Rue Jacquemont,"Paris, Ile-de-France, France",restaurant francais,Paris,75017.0,17.0,peripherie
+Perlamatta,25.0,4.9,4539,114 Rue de la Convention,"Paris, Ile-de-France, France",restaurant,Paris,75015.0,15.0,intermediaire
+AUCIEL,25.0,4.9,1699,"97 Rue de Charonne, 11eme Arrondissement","Paris, Ile-de-France, France",restaurant chinois,Paris,75011.0,11.0,intermediaire
+Le Cornichon - Paris 14 - Maison fondee en 2011,38.5,4.9,1501,34 Rue Gassendi,"Paris, Ile-de-France, France",restaurant francais,Paris,75014.0,14.0,intermediaire
+Comme Chez Maman,26.0,4.9,2253,5 Rue des Moines,"Paris, Ile-de-France, France",restaurant francais,Paris,75017.0,17.0,peripherie
+McDonalds,15.0,4.9,2462,"Gare De Lyon Hall, Pl. Louis Armand 1","Paris, Ile-de-France, France",fast food,Paris,75012.0,12.0,intermediaire
+Madame Guan - Chatelet,5.5,4.9,726,63 Rue Saint-Martin,"Paris, Ile-de-France, France",restaurant chinois,Paris,75004.0,4.0,centre
+Godaille,32.5,4.9,594,9 Rue Antoine Vollon,"Paris, Ile-de-France, France",restaurant,Paris,75012.0,12.0,intermediaire
+Casa Di Peppe,25.0,4.9,6994,222 Rue Saint-Jacques,"Paris, Ile-de-France, France",pizzeria,Paris,75005.0,5.0,centre
+Noura Marceau,27.5,4.9,7007,27 Av. Marceau,"Paris, Ile-de-France, France",restaurant,Paris,75116.0,16.0,peripherie
+Boutary,100.0,4.9,3456,25 Rue Mazarine,"Paris, Ile-de-France, France",restaurant,Paris,75006.0,6.0,centre
+Bloom Sushi Wagram,30.0,4.9,1302,99 Rue Jouffroy dx27Abbans,"Paris, Ile-de-France, France",sushis,Paris,75017.0,17.0,peripherie
+Brasserie du Louvre,50.0,4.9,2224,"Place Andre Malraux, Paris, Ile-de-France, France, 75001","Paris, Ile-de-France, France",restaurant francais,Paris,75001.0,1.0,centre
+Petit Bao - Etienne Marcel,25.0,4.9,5598,"116 rue Saint-Denis, 75002","Paris, Ile-de-France, France",chinois,Paris,75002.0,2.0,centre
+Il Ristorante - Niko Romito,100.0,4.9,327,30 Av. George V,"Paris, Ile-de-France, France",restaurant italiens,Paris,75008.0,8.0,centre
+Choubidou Paris Montparnasse,15.0,4.9,2434,13 Pl. de Catalogne,"Paris, Ile-de-France, France",restaurant,Paris,75014.0,14.0,intermediaire
+Le Potager du Marais,25.0,4.9,3322,26 Rue Saint-Paul,"Paris, Ile-de-France, France",vegetarien,Paris,75004.0,4.0,centre
+Rosemarie,47.0,4.9,569,149 Rue De Luniversite,"Paris, Ile-de-France, France",restaurant francais,Paris,75007.0,7.0,centre
+Restaurant Bistrot Le dome Paris 15,25.0,4.9,1701,6 Rue Du Hameau,"Paris, Ile-de-France, France",restaurant,Paris,75015.0,15.0,intermediaire
+"Choukran Saint-georges, Paris 9",15.0,4.9,3388,29 Rue Saint-Georges,"Paris, Ile-de-France, France",restaurant marocains,Paris,75009.0,9.0,centre
+Le Recamier,30.0,4.9,4882,4 Rue Juliette Recamier,"Paris, Ile-de-France, France",restaurant francais,Paris,75007.0,7.0,centre
+Mala Town,15.0,4.9,3403,44 R. de Turbigo,"Paris, Ile-de-France, France",restaurant,Paris,75003.0,3.0,centre
+La Table de Yemma,15.0,4.9,5173,115 Bd de Menilmontant,"Paris, Ile-de-France, France",restaurant algeriens,Paris,75011.0,11.0,intermediaire
+Mon Coco,25.0,4.9,6359,6 Pl. de la Republique,"Paris, Ile-de-France, France",restaurant,Paris,75011.0,11.0,intermediaire
+Le Progres Marais,20.0,4.9,1667,1 Rue de Bretagne,"Paris, Ile-de-France, France",cafeteria,Paris,75003.0,3.0,centre
+Le Paradis du Fruit - Wagram,25.0,4.9,4820,32 Av. de Wagram,"Paris, Ile-de-France, France",restaurant francais,Paris,75008.0,8.0,centre
+Kong,100.0,4.9,19889,1 Rue du Pont Neuf,"Paris, Ile-de-France, France",restaurant,Paris,75001.0,1.0,centre
+Suzie Wong - Restaurant Chinois,25.0,4.9,1763,24 Rue des Taillandiers,"Paris, Ile-de-France, France",restaurant chinois,Paris,75011.0,11.0,intermediaire
+Nirvana Inde,25.0,4.9,4975,6 Rue de Moscou,"Paris, Ile-de-France, France",restaurant indiens,Paris,75008.0,8.0,centre
+LA PALETTE - PARIS,20.0,4.9,3888,43 Rue de Seine,"Paris, Ile-de-France, France",cafe,Paris,75006.0,6.0,centre
+Cafe Saint Honore,25.0,4.9,4377,194 Rue Saint-Honore,"Paris, Ile-de-France, France",cafe,Paris,75001.0,1.0,centre
+20 Eiffel,40.0,4.9,1897,20 Rue de Monttessuy,"Paris, Ile-de-France, France",restaurant francais,Paris,75007.0,7.0,centre
+Le Florentin,25.0,4.9,3485,10 Rue Saint-Florentin,"Paris, Ile-de-France, France",restaurant francais,Paris,75001.0,1.0,centre
+Vaisseau,100.0,4.9,327,35 Rue Faidherbe,"Paris, Ile-de-France, France",restaurant francais,Paris,75011.0,11.0,intermediaire
+Restaurant Biche,24.0,4.9,1326,129 Rue du Faubourg Saint-Honore,"Paris, Ile-de-France, France",restaurant francais,Paris,75008.0,8.0,centre
+Cafe des Arts,15.0,4.9,2881,2 Rue de lAmiral de Coligny,"Paris, Ile-de-France, France",cafe,Paris,75001.0,1.0,centre
+Los Pollos,15.0,4.9,3217,18 Rue de la Roquette,"Paris, Ile-de-France, France",fast food,Paris,75011.0,11.0,intermediaire
+Frenchie Pigalle,23.0,4.9,707,29 Rue Victor Masse,"Paris, Ile-de-France, France",restaurant,Paris,75009.0,9.0,centre
+Uno,25.0,4.9,5015,37 Rue Berger,"Paris, Ile-de-France, France",restaurant,Paris,75001.0,1.0,centre
+PACKIAMS,25.0,4.9,2811,72 Bd de Strasbourg,"Paris, Ile-de-France, France",restaurant,Paris,75010.0,10.0,intermediaire
+Bistro S,40.5,4.9,752,7 Rue Saint-Nicolas,"Paris, Ile-de-France, France",restaurant francais,Paris,75012.0,12.0,intermediaire
+Erso Restaurant,15.5,4.9,359,18 Rue Saint-Ambroise,"Paris, Ile-de-France, France",restaurant francais,Paris,75011.0,11.0,intermediaire
+Fuwa Fuwa,15.0,4.9,2842,122 Av. de Choisy,"Paris, Ile-de-France, France",cafe,Paris,75013.0,13.0,intermediaire
+Chez Loulou,25.0,4.9,3122,63 Rue Rambuteau,"Paris, Ile-de-France, France",restaurant,Paris,75004.0,4.0,centre
+SnackRush,15.0,4.9,1440,4 Rue Desaix,"Paris, Ile-de-France, France",restaurant,Paris,75015.0,15.0,intermediaire
+Baieta - Restaurant Paris,100.0,4.9,1402,5 Rue de Pontoise,"Paris, Ile-de-France, France",restaurant francais,Paris,75005.0,5.0,centre
+Adami,23.5,4.9,403,19bis Rue Pierre Fontaine,"Paris, Ile-de-France, France",restaurant italiens,Paris,75009.0,9.0,centre
+Shodai Matcha,15.0,4.9,7020,7 Rue Volta,"Paris, Ile-de-France, France",desserts,Paris,75003.0,3.0,centre
+ChoCho,53.0,4.9,1614,54 Rue de Paradis,"Paris, Ile-de-France, France",restaurant,Paris,75010.0,10.0,intermediaire
+Cafe Charbon,25.0,4.9,3272,109 Rue Oberkampf,"Paris, Ile-de-France, France",cafe,Paris,75011.0,11.0,intermediaire
+Brasserie Martin,25.0,4.9,5453,24 Rue Saint-Ambroise,"Paris, Ile-de-France, France",restaurant francais,Paris,75011.0,11.0,intermediaire
+Gandhi Jis - Restaurant indien Paris 9e,25.0,4.9,3343,12 Rue La Fayette,"Paris, Ile-de-France, France",restaurant indiens,Paris,75009.0,9.0,centre
+Neko Ramen,15.0,4.9,9201,6 Rue de la Grange Bateliere,"Paris, Ile-de-France, France",restaurant,Paris,75003.0,3.0,centre
+LAvant Comptoir de la Terre et de la Mer,25.0,4.9,4311,3 carrefour de lodeon,"Paris, Ile-de-France, France",pub et bar,Paris,75006.0,6.0,centre
+Dessance,100.0,4.9,1884,74 Rue des Archives,"Paris, Ile-de-France, France",restaurant,Paris,75003.0,3.0,centre
+SAZ Durum Lahmacun,15.0,4.9,2484,24 Rue du 4 septembre,"Paris, Ile-de-France, France",restaurant turcs,Paris,75002.0,2.0,centre
+Nomas Paris 9 - Mexican Street Food,15.0,4.9,1109,21 Bd Montmartre,"Paris, Ile-de-France, France",mexicain,Paris,75002.0,2.0,centre
+Prost,25.0,4.9,912,3 Bd Beaumarchais,"Paris, Ile-de-France, France",restaurant,Paris,75004.0,4.0,centre
+Brasserie Lutetia,45.5,4.9,1440,43 Bd Raspail,"Paris, Ile-de-France, France",restaurant,Paris,75006.0,6.0,centre
+Brasserie Lazare Paris,30.5,4.9,6130,"Parvis De La Gare Saint-lazare, Rue Interieure","Paris, Ile-de-France, France",restaurant,Paris,75008.0,8.0,centre
+Arty Caffe Paris,15.0,4.9,1479,176 Rue de Rivoli,"Paris, Ile-de-France, France",cafe,Paris,75001.0,1.0,centre
+Ilang,25.0,4.9,5594,2 bis Rue Daunou,"Paris, Ile-de-France, France",restaurant coreens,Paris,75002.0,2.0,centre
+Tripletta Guy Moquet,25.0,4.8,1006,51 Rue Guy Moquet,"Paris, Ile-de-France, France",restaurant italiens,Paris,75017.0,17.0,peripherie
+Pink Koi,40.5,4.8,1567,8 Rue Coquilliere,"Paris, Ile-de-France, France",restaurant japonais,Paris,75001.0,1.0,centre
+LAZU Restaurant Bouillon47,41.0,4.8,775,47 Rue Marguerite de Rochechouart,"Paris, Ile-de-France, France",restaurant francais,Paris,75009.0,9.0,centre
+BOMIE Louvre-Rivoli,5.5,4.8,10813,91 Rue de Rivoli,"Paris, Ile-de-France, France",desserts,Paris,75001.0,1.0,centre
+Aldehyde,100.0,4.8,376,5 Rue du Pont Louis-Philippe,"Paris, Ile-de-France, France",pub et bar,Paris,75004.0,4.0,centre
+Restaurant Drouant,100.0,4.8,3037,16-18 Rue Gaillon,"Paris, Ile-de-France, France",restaurant francais,Paris,75002.0,2.0,centre
+Clamato,65.0,4.8,2507,80 Rue de Charonne,"Paris, Ile-de-France, France",restaurant,Paris,75011.0,11.0,intermediaire
+Substance,100.0,4.8,1779,18 Rue de Chaillot,"Paris, Ile-de-France, France",restaurant francais,Paris,75116.0,16.0,peripherie
+Cafe Compagnon,50.0,4.8,698,22-26 Rue Leopold Bellan,"Paris, Ile-de-France, France",cafe,Paris,75002.0,2.0,centre
+CASA COSA,25.0,4.8,4090,30 Rue de Mogador,"Paris, Ile-de-France, France",pizzeria,Paris,75009.0,9.0,centre
+Frenchie Bar A Vins,15.0,4.8,630,6 Rue du Nil,"Paris, Ile-de-France, France",bars a vin,Paris,75002.0,2.0,centre
+La Causerie,42.5,4.8,1171,31 Rue Vital,"Paris, Ile-de-France, France",restaurant francais,Paris,75116.0,16.0,peripherie
+Wonderland brunchy Notre Dame Restaurant Brunch,25.0,4.8,3614,4 Quai Dorleans,"Paris, Ile-de-France, France",restaurant,Paris,75004.0,4.0,centre
+Julien,25.0,4.8,13253,16 Rue du Faubourg Saint-Denis,"Paris, Ile-de-France, France",restaurant francais,Paris,75010.0,10.0,intermediaire
+Marie Akaneya,100.0,4.8,614,12 Rue Godot de Mauroy,"Paris, Ile-de-France, France",sushis,Paris,75009.0,9.0,centre
+Colvert,38.5,4.8,1583,30 Rue des Grands Augustins,"Paris, Ile-de-France, France",restaurant francais,Paris,75006.0,6.0,centre
+Paris en Scene Diner Croisiere,41.0,4.8,16638,"escale de, Lile aux Cygnes, Pont de Bir-Hakeim","Paris, Ile-de-France, France",restaurant francais,Paris,75015.0,15.0,intermediaire
+LExode,15.0,4.8,1320,39 Boulevard de Strasbourg Paris,"Paris, Ile-de-France, France",pub et bar,Paris,75010.0,10.0,intermediaire
+Baillotte,15.0,4.8,464,16 Rue du Dragon,"Paris, Ile-de-France, France",restaurant francais,Paris,75006.0,6.0,centre
+Signature Montmartre,50.0,4.8,1455,12 Rue des Trois Freres,"Paris, Ile-de-France, France",restaurant,Paris,75018.0,18.0,peripherie
+Pavyllon,100.0,4.8,1894,8 Avenue Dutuit,"Paris, Ile-de-France, France",restaurant,Paris,75008.0,8.0,centre
+KFC Paris Place dItalie,15.0,4.8,5981,211-213 Bd Vincent Auriol,"Paris, Ile-de-France, France",fast food,Paris,75013.0,13.0,intermediaire
+Via Del Gusto,25.0,4.8,8506,344 Rue de Vaugirard,"Paris, Ile-de-France, France",restaurant,Paris,75015.0,15.0,intermediaire
+Sir Winston,25.5,4.8,6391,5 Rue de Presbourg,"Paris, Ile-de-France, France",pub et bar,Paris,75116.0,16.0,peripherie
+La cantine diderot,15.0,4.8,2217,74 Bd Diderot,"Paris, Ile-de-France, France",restaurant francais,Paris,75012.0,12.0,intermediaire
+Brasserie Rosie,25.0,4.8,7142,53 Rue du Faubourg Saint-Antoine,"Paris, Ile-de-France, France",restaurant francais,Paris,75011.0,11.0,intermediaire
+Trantranzai Pantheon,15.0,4.8,2580,"3 Rue de lEcole Polytechnique, 75005","Paris, Ile-de-France, France",restaurant,Paris,75005.0,5.0,centre
+Perruche,49.0,4.8,5484,"Printemps De Lhomme - 9eme Etage, 2 Rue Du Havre","Paris, Ile-de-France, France",pub et bar,Paris,75009.0,9.0,centre
+Le George,105.0,4.8,2244,31 Av. George V,"Paris, Ile-de-France, France",restaurant italiens,Paris,75008.0,8.0,centre
+Bollynan streetfood indienne - Montorgueil,15.0,4.8,6837,12 Rue des Petits Carreaux,"Paris, Ile-de-France, France",restaurant,Paris,75002.0,2.0,centre
+LEscargot Montorgueil,30.5,4.8,9940,38 Rue Montorgueil,"Paris, Ile-de-France, France",restaurant,Paris,75001.0,1.0,centre
+Dalia,35.0,4.8,3865,93 Rue Montmartre,"Paris, Ile-de-France, France",restaurant,Paris,75002.0,2.0,centre
+Oma Beaurepaire,25.0,4.8,1426,6 Rue Beaurepaire,"Paris, Ile-de-France, France",restaurant,Paris,75010.0,10.0,intermediaire
+Le Paradis du Fruit - Opera,25.0,4.8,7621,30 Bd des Italiens,"Paris, Ile-de-France, France",restaurant,Paris,75009.0,9.0,centre
+Relais de lEntrecote,35.0,4.8,12032,15 Rue Marbeuf,"Paris, Ile-de-France, France",restaurant a viande,Paris,75008.0,8.0,centre
+Le Relais du 15eme,25.0,4.8,5366,"78, Avenue Emile Zola","Paris, Ile-de-France, France",italien,Paris,75015.0,15.0,intermediaire
+Brasserie des Champs,25.0,4.8,3939,122 avenue des Champs-Elysees,"Paris, Ile-de-France, France",restaurant francais,Paris,75008.0,8.0,centre
+Mian Fan,15.0,4.8,4532,124 Bd du Montparnasse,"Paris, Ile-de-France, France",restaurant,Paris,75014.0,14.0,intermediaire
+Assanabel Republique - Marais,35.0,4.8,6407,6 Rue Pierre Chausson,"Paris, Ile-de-France, France",restaurant,Paris,75010.0,10.0,intermediaire
+Tripletta Gaite,15.0,4.8,2850,1 Impasse de la Gaite,"Paris, Ile-de-France, France",restaurant,Paris,75014.0,14.0,intermediaire
+Le Bouchon Parisien,30.0,4.8,2722,28 Av. de Suffren,"Paris, Ile-de-France, France",restaurant francais,Paris,75015.0,15.0,intermediaire
+La Charrette a Crepes,5.5,4.8,1607,19 Rue Ferdinand Duval,"Paris, Ile-de-France, France",desserts,Paris,75004.0,4.0,centre
+Gigi Paris,100.0,4.8,4174,15 Av. Montaigne,"Paris, Ile-de-France, France",restaurant italiens,Paris,75008.0,8.0,centre
+The Kitchen,25.0,4.8,6726,44 Rue de Ponthieu,"Paris, Ile-de-France, France",restaurant,Paris,75008.0,8.0,centre
+Leader Sushi,15.0,4.8,3390,78 Rue Rambuteau,"Paris, Ile-de-France, France",sushis,Paris,75001.0,1.0,centre
+Abri Soba,25.0,4.8,1628,10 Rue Saulnier,"Paris, Ile-de-France, France",restaurant japonais,Paris,75009.0,9.0,centre
+Le Gabriel,100.0,4.8,1852,"42, Avenue Gabriel La Reserve Hotel, Spa and Apartments","Paris, Ile-de-France, France",restaurant francais,Paris,75008.0,8.0,centre
+Restaurant Kei,100.0,4.8,3090,5 Rue Coq Heron,"Paris, Ile-de-France, France",restaurant francais,Paris,75001.0,1.0,centre
+"CHOUKRAN Restaurant Marocain, Paris 2",15.0,4.8,1743,69 Rue dAboukir,"Paris, Ile-de-France, France",restaurant marocains,Paris,75002.0,2.0,centre
+Bacha Coffee Champs-elysees,25.0,4.8,956,26 Av. des Champs-Elysees,"Paris, Ile-de-France, France",cafe,Paris,75008.0,8.0,centre
+Oktobre,100.0,4.8,1226,25 Rue des Grands Augustins,"Paris, Ile-de-France, France",restaurant francais,Paris,75006.0,6.0,centre
+Pur,100.0,4.8,2426,"5 Rue de La Paix, Park Hyatt Paris","Paris, Ile-de-France, France",restaurant francais,Paris,75002.0,2.0,centre
+SHU YUAN,25.0,4.8,1678,29 Bd des Italiens,"Paris, Ile-de-France, France",restaurant chinois,Paris,75002.0,2.0,centre
+Le Beef,15.5,4.8,7758,33 Rue des Rosiers,"Paris, Ile-de-France, France",restaurant a viande,Paris,75004.0,4.0,centre
+MELT Batignolles,25.0,4.8,4245,83 Rue Legendre,"Paris, Ile-de-France, France",bbq,Paris,75017.0,17.0,peripherie
+Hadramaout - Le Restaurant Yemenite Champs Elysees,25.0,4.8,3286,"Galerie Berri-Washington, 5 Rue de Berri","Paris, Ile-de-France, France",restaurant,Paris,75008.0,8.0,centre
+BAOBAR - Restaurant Chinois,25.0,4.8,3480,42 Rue Sainte-Croix de la Bretonnerie,"Paris, Ile-de-France, France",restaurant,Paris,75004.0,4.0,centre
+Bistro des Lettres,30.0,4.8,2858,52 Bd Saint-Germain,"Paris, Ile-de-France, France",restaurant francais,Paris,75005.0,5.0,centre
+Tiger Tiger - Restaurant Chinois,25.0,4.8,2382,15 Rue Rene Boulanger,"Paris, Ile-de-France, France",restaurant,Paris,75010.0,10.0,intermediaire
+Hippopotamus Steakhouse,25.0,4.8,8609,1 Boulevard Des Capucines,"Paris, Ile-de-France, France",restaurant a viande,Paris,75002.0,2.0,centre
+Au Ptit Crepe,15.0,4.8,3649,25 Rue St Denis,"Paris, Ile-de-France, France",restaurant,Paris,75001.0,1.0,centre
+La Grande Cascade,100.0,4.8,3896,Rte de la Vge aux Berceaux,"Paris, Ile-de-France, France",restaurant francais,Paris,75016.0,16.0,peripherie
+Magma Chef Ryuya Ono,100.0,4.8,728,9 Rue Jean-Pierre Timbaud,"Paris, Ile-de-France, France",restaurant,Paris,75011.0,11.0,intermediaire
+Brasserie Bellanger,25.0,4.8,5905,140 Rue du Faubourg Poissonniere,"Paris, Ile-de-France, France",restaurant francais,Paris,75010.0,10.0,intermediaire
+La Taverne de Zhao Batignolles,15.0,4.8,821,59 Rue des Dames,"Paris, Ile-de-France, France",restaurant chinois,Paris,75017.0,17.0,peripherie
+Maison Blanche,25.0,4.8,2162,21 Rue de la Huchette,"Paris, Ile-de-France, France",restaurant francais,Paris,75005.0,5.0,centre
+McDonalds,15.0,4.8,22238,140 Av. des Champs-Elysees,"Paris, Ile-de-France, France",fast food,Paris,75008.0,8.0,centre
+Le Nelsons - Louvre,36.5,4.8,5268,16 Rue Coquilliere,"Paris, Ile-de-France, France",restaurant,Paris,75001.0,1.0,centre
+Tosca,100.0,4.8,914,20 Rue du Cirque,"Paris, Ile-de-France, France",restaurant italiens,Paris,75008.0,8.0,centre
+NooRi,15.0,4.8,4732,20 Rue du Faubourg Saint-Martin,"Paris, Ile-de-France, France",sushis,Paris,75010.0,10.0,intermediaire
+Le Moulin de la Galette,17.0,4.8,7664,83 Rue Lepic,"Paris, Ile-de-France, France",restaurant francais,Paris,75018.0,18.0,peripherie
+Indiana Cafe - Les Halles,25.0,4.8,3637,35 Rue du Pont Neuf,"Paris, Ile-de-France, France",cafe,Paris,75001.0,1.0,centre
+Lentrecote De Paris,25.0,4.8,9072,29 Rue de Marignan,"Paris, Ile-de-France, France",restaurant francais,Paris,75008.0,8.0,centre
+Korus restaurant,30.5,4.8,1114,73 Rue Amelot,"Paris, Ile-de-France, France",restaurant francais,Paris,75011.0,11.0,intermediaire
+Le Suffren - Paris,30.5,4.8,8835,84 Av. de Suffren,"Paris, Ile-de-France, France",fruits de mer,Paris,75015.0,15.0,intermediaire
+Brasserie La Lorraine,32.5,4.8,7691,2 Pl. des Ternes,"Paris, Ile-de-France, France",fruits de mer,Paris,75008.0,8.0,centre
+Amorino Gelato - Paris Commerce,5.5,4.8,1801,90 rue Commerce,"Paris, Ile-de-France, France",desserts,Paris,75015.0,15.0,intermediaire
+JMT - Jon Mat Taeng Paris,25.0,4.8,2795,63 Quai de la Gare,"Paris, Ile-de-France, France",restaurant coreens,Paris,75013.0,13.0,intermediaire
+ERNEST BRASSERIE,15.0,4.8,2019,35 Rue du Commandant Rene Mouchotte,"Paris, Ile-de-France, France",fast food,Paris,75014.0,14.0,intermediaire
+Restaurant coreen Paris 14,25.0,4.8,820,39 Rue de la Gaite,"Paris, Ile-de-France, France",restaurant,Paris,75014.0,14.0,intermediaire
+Moghol,25.0,4.8,3862,26 Rue de Caumartin,"Paris, Ile-de-France, France",restaurant,Paris,75009.0,9.0,centre
+Le Cafe des Chats,15.0,4.8,8092,9 Rue Sedaine,"Paris, Ile-de-France, France",cafe,Paris,75011.0,11.0,intermediaire
+Ote,25.0,4.8,787,46 Rue Jean-Pierre Timbaud,"Paris, Ile-de-France, France",restaurant,Paris,75011.0,11.0,intermediaire
+Le Petit Poucet - Paris,32.0,4.8,3931,5 Pl. de Clichy,"Paris, Ile-de-France, France",restaurant,Paris,75017.0,17.0,peripherie
+Inagiku,30.5,4.8,3358,14 Rue De Pontoise,"Paris, Ile-de-France, France",restaurant,Paris,75005.0,5.0,centre
+La Fresque,25.0,4.8,4087,100 Rue Rambuteau,"Paris, Ile-de-France, France",restaurant francais,Paris,75001.0,1.0,centre
+Le Bailli de Suffren,15.5,4.8,1880,"7 Av. de Suffren, 75007","Paris, Ile-de-France, France",bars a biere,Paris,75007.0,7.0,centre
+Curry Rolls,15.0,4.8,873,89 Rue de Bagnolet,"Paris, Ile-de-France, France",fast food,Paris,75020.0,20.0,peripherie
+Restaurant Pierre Gagnaire,100.0,4.8,2341,6 Rue Balzac,"Paris, Ile-de-France, France",restaurant,Paris,75008.0,8.0,centre
+Le Mary Celeste,15.5,4.8,3410,1 Rue Commines,"Paris, Ile-de-France, France",fruits de mer,Paris,75003.0,3.0,centre
+Marvely,25.0,4.8,7586,46 Rue Crozatier,"Paris, Ile-de-France, France",cafe,Paris,75012.0,12.0,intermediaire
+Pierre Sang,35.5,4.8,2008,6 Rue Gambey,"Paris, Ile-de-France, France",pub et bar,Paris,75011.0,11.0,intermediaire
+Ciasa Mia,100.0,4.8,1211,19 Rue Laplace,"Paris, Ile-de-France, France",restaurant italiens,Paris,75005.0,5.0,centre
+Restaurant Derriere,56.0,4.8,6179,69 Rue des Gravilliers,"Paris, Ile-de-France, France",restaurant francais,Paris,75003.0,3.0,centre
+Perception,100.0,4.8,803,53 Rue Blanche,"Paris, Ile-de-France, France",restaurant,Paris,75009.0,9.0,centre
+Mian Fan Dumpling Factory,15.0,4.8,1540,29 Rue de Mogador,"Paris, Ile-de-France, France",restaurant,Paris,75008.0,8.0,centre
+888 NIGHT MARKET,25.0,4.8,2524,3 Imp. Beaubourg,"Paris, Ile-de-France, France",chinois,Paris,75003.0,3.0,centre
+Glace Bachir,5.5,4.8,8312,58 Rue Rambuteau,"Paris, Ile-de-France, France",desserts,Paris,75003.0,3.0,centre
+Bacav Paris par Gilles Choukroun,50.0,4.8,787,"6, rue Des Fossees Saint Marcel","Paris, Ile-de-France, France",restaurant,Paris,75005.0,5.0,centre
+Les Artistes,25.0,4.8,4291,60 Rue Didot,"Paris, Ile-de-France, France",restaurant francais,Paris,75014.0,14.0,intermediaire
+La Cafeotheque de Paris,5.5,4.8,5746,"52, rue de lHotel-de-Ville","Paris, Ile-de-France, France",cafe,Paris,75004.0,4.0,centre
+Sellae,50.0,4.8,733,18 Rue des Wallons,"Paris, Ile-de-France, France",restaurant francais,Paris,75013.0,13.0,intermediaire
+LE CHOUBICHOU PARIS CHATELET,15.0,4.8,2354,5 Rue Mondetour,"Paris, Ile-de-France, France",restaurant,Paris,75001.0,1.0,centre
+Fric-Frac Montmartre,15.0,4.8,3219,4 Rue des Trois Freres,"Paris, Ile-de-France, France",restaurant,Paris,75018.0,18.0,peripherie
+Jinchan shokudo,25.0,4.8,3615,154 Rue du Faubourg Saint-Antoine,"Paris, Ile-de-France, France",sushis,Paris,75012.0,12.0,intermediaire
+Firmine,30.0,4.8,7341,38B Av. de Suffren,"Paris, Ile-de-France, France",pizzeria,Paris,75007.0,7.0,centre
+AU PERE FOUETTARD,20.0,4.8,5059,9 Rue Pierre Lescot,"Paris, Ile-de-France, France",restaurant francais,Paris,75001.0,1.0,centre
+Popeyes Louisiana Chicken Gare du Nord,15.0,4.8,4061,9 Bd de Denain,"Paris, Ile-de-France, France",restaurant americains,Paris,75010.0,10.0,intermediaire
+The Place to...Wagram,35.0,4.8,7318,47 Av. de Wagram,"Paris, Ile-de-France, France",restaurant,Paris,75017.0,17.0,peripherie
+Le Grand Vefour,100.0,4.8,3852,17 Rue de Beaujolais,"Paris, Ile-de-France, France",restaurant,Paris,75001.0,1.0,centre
+Hanoi Ca Phe Bercy,25.0,4.8,6048,26 Cr Saint-Emilion,"Paris, Ile-de-France, France",restaurant,Paris,75012.0,12.0,intermediaire
+Kehribar,20.0,4.8,4381,1 Rue des Fosses Saint-Jacques,"Paris, Ile-de-France, France",restaurant,Paris,75005.0,5.0,centre
+Laperouse,100.0,4.8,3234,51 Quai des Grands Augustins,"Paris, Ile-de-France, France",restaurant francais,Paris,75006.0,6.0,centre
+Okito,25.0,4.8,3006,35 Rue Bayen,"Paris, Ile-de-France, France",restaurant,Paris,75017.0,17.0,peripherie
+Chez Marianne,25.0,4.8,7405,2 Rue des Hospitalieres Saint-Gervais,"Paris, Ile-de-France, France",restaurant,Paris,75004.0,4.0,centre
+Les Amours in paris,30.0,4.8,2644,27 Av. de la Bourdonnais,"Paris, Ile-de-France, France",restaurant francais,Paris,75007.0,7.0,centre
+Le Jules Jo - Paris 18,15.0,4.8,2146,28 Rue Hermel,"Paris, Ile-de-France, France",pizzeria,Paris,75018.0,18.0,peripherie
+Glace Room family cafe,5.5,4.8,1735,"Place de la Bastille, 4 Rue de la Roquette","Paris, Ile-de-France, France",cafe,Paris,75011.0,11.0,intermediaire
+24 Le restaurant,42.0,4.8,1413,24 Rue Jean Mermoz,"Paris, Ile-de-France, France",restaurant francais,Paris,75008.0,8.0,centre
+Le Jardin des Pates,25.0,4.8,2802,4 Rue Lacepede,"Paris, Ile-de-France, France",restaurant,Paris,75005.0,5.0,centre
+Pb Poulet Braise Chatelet,15.0,4.8,7770,12 Rue de la Cossonnerie,"Paris, Ile-de-France, France",restaurant,Paris,75001.0,1.0,centre
+Roberta Ristorante,25.0,4.8,4367,30 Cr Saint-Emilion,"Paris, Ile-de-France, France",restaurant italiens,Paris,75012.0,12.0,intermediaire
+Bistro Des Poemes,34.5,4.8,1357,7 Rue Corneille,"Paris, Ile-de-France, France",restaurant francais,Paris,75006.0,6.0,centre
+Restaurant La Halle aux Grains,100.0,4.8,1042,2 Rue de Viarmes,"Paris, Ile-de-France, France",restaurant francais,Paris,75001.0,1.0,centre
+Via Del Campo,45.5,4.8,2011,22 Rue du Champ de Mars,"Paris, Ile-de-France, France",restaurant italiens,Paris,75007.0,7.0,centre
+Chez Georges,1.0,4.8,1824,1 Rue du Mail,"Paris, Ile-de-France, France",restaurant,Paris,75002.0,2.0,centre
+La Solita Taverna,15.0,4.8,2814,10 Rue du Fouarre,"Paris, Ile-de-France, France",italien,Paris,75005.0,5.0,centre
+Trattoria Napoletana Da Enzo,15.0,4.8,1376,80 Rue St Charles,"Paris, Ile-de-France, France",pizzeria,Paris,75015.0,15.0,intermediaire
+"Simone, Le Resto...",42.0,4.8,966,33 Bd Arago,"Paris, Ile-de-France, France",restaurant,Paris,75013.0,13.0,intermediaire
+La Taverne de Zhao,15.0,4.8,1844,"FR, 11 Rue Delambre","Paris, Ile-de-France, France",restaurant chinois,Paris,75014.0,14.0,intermediaire
+La Cagouille,38.5,4.8,4377,10 place Constantin-Brancusi,"Paris, Ile-de-France, France",fruits de mer,Paris,75014.0,14.0,intermediaire
+Salon Marais,25.0,4.8,2330,3 Rue du Roi Dore,"Paris, Ile-de-France, France",restaurant,Paris,75003.0,3.0,centre
+La Taverne de Zhao Canal Saint-Martin,15.0,4.8,2909,49 Rue des Vinaigriers,"Paris, Ile-de-France, France",chinois,Paris,75010.0,10.0,intermediaire
+Restaurant Cafe Madame,25.0,4.8,2553,25 Rue de Vaugirard,"Paris, Ile-de-France, France",cafe,Paris,75006.0,6.0,centre
+Bambini Paris,15.0,4.8,4331,"Palais De Tokyo, 13 Av. du President Wilson","Paris, Ile-de-France, France",restaurant,Paris,75116.0,16.0,peripherie
+Pratolina,25.0,4.8,7306,11 Bd de Bonne Nouvelle,"Paris, Ile-de-France, France",restaurant,Paris,75002.0,2.0,centre
+La Scene par Stephanie Le Quellec,100.0,4.8,1437,32 Av. Matignon,"Paris, Ile-de-France, France",restaurant,Paris,75008.0,8.0,centre
+De La Tour,32.5,4.8,2583,6 Rue Desaix,"Paris, Ile-de-France, France",restaurant francais,Paris,75015.0,15.0,intermediaire
+Le Souffle,26.0,4.8,7948,36 Rue du Mont Thabor,"Paris, Ile-de-France, France",restaurant francais,Paris,75001.0,1.0,centre
+IL CARPACCIO,100.0,4.8,1321,37 Av. Hoche,"Paris, Ile-de-France, France",restaurant italiens,Paris,75008.0,8.0,centre
+SKYBAR PARIS ROOFTOP,43.0,4.8,2342,19 Rue du Commandant Rene Mouchotte,"Paris, Ile-de-France, France",club,Paris,75014.0,14.0,intermediaire
+MEILLEUR LIBANAIS A PARIS 3E Rannouch City,15.0,4.8,1663,44 R. de Turbigo,"Paris, Ile-de-France, France",fast food,Paris,75003.0,3.0,centre
+Le Baron Rouge,15.0,4.8,2940,1 Rue Theophile Roussel,"Paris, Ile-de-France, France",bars a vin,Paris,75012.0,12.0,intermediaire
+Pasta Cosi,25.0,4.8,1062,78 Av. de Flandre,"Paris, Ile-de-France, France",restaurant,Paris,75019.0,19.0,peripherie
+LAmphi Quai de Seine,15.0,4.8,2239,23 Av. Victoria,"Paris, Ile-de-France, France",pub et bar,Paris,75001.0,1.0,centre
+Bonnie - Restaurant bar,100.0,4.8,3342,10 Rue Agrippa Daubigne,"Paris, Ile-de-France, France",restaurant francais,Paris,75004.0,4.0,centre
+Popeyes Louisiana Chicken Italie Deux,15.0,4.8,1629,42 Av. dItalie,"Paris, Ile-de-France, France",fast food,Paris,75013.0,13.0,intermediaire
+Le Grand Amalfi,30.0,4.8,2655,9 Quai De Montebello,"Paris, Ile-de-France, France",restaurant italiens,Paris,75005.0,5.0,centre
+BROTHER SISTER Brunch Lunch Dinner,25.0,4.8,2539,72 Rue de la Roquette,"Paris, Ile-de-France, France",restaurant,Paris,75011.0,11.0,intermediaire
+Doni Berliner,15.0,4.8,1858,17 Av. Secretan,"Paris, Ile-de-France, France",restaurant,Paris,75019.0,19.0,peripherie
+Indiana Cafe - Bercy Village,25.0,4.8,4324,59-61 Cr Saint-Emilion,"Paris, Ile-de-France, France",cafe,Paris,75012.0,12.0,intermediaire
+Les Petites Cocottes de Mian Fan,15.0,4.8,2795,18 Rue de Mogador,"Paris, Ile-de-France, France",restaurant,Paris,75009.0,9.0,centre
+Galeries Lafayette Le Gourmet,20.0,4.8,8200,35 Bd Haussmann,"Paris, Ile-de-France, France",restaurant,Paris,75009.0,9.0,centre
+Le Cafe De Lusine,45.0,4.8,194,5 Pass. Piver,"Paris, Ile-de-France, France",cafe,Paris,75011.0,11.0,intermediaire
+ASPIC,100.0,4.8,2080,24 Rue Louise-Emilie de la Tour dAuvergne,"Paris, Ile-de-France, France",restaurant francais,Paris,75009.0,9.0,centre
+La Condesa Paris,100.0,4.8,1008,13 Rue Claude Rodier,"Paris, Ile-de-France, France",restaurant francais,Paris,75009.0,9.0,centre
+Galanga par Monsieur George,100.0,4.8,456,17 Rue Washington,"Paris, Ile-de-France, France",restaurant,Paris,75008.0,8.0,centre
+Cafe Leone,25.0,4.8,663,5 Rue dArcole,"Paris, Ile-de-France, France",restaurant,Paris,75004.0,4.0,centre
+Restaurant Petrossian,100.0,4.8,838,13 boulevard de la tour maubourg,"Paris, Ile-de-France, France",restaurant,Paris,75007.0,7.0,centre
+LEte en Pente Douce,25.0,4.8,2625,8 Rue Paul Albert,"Paris, Ile-de-France, France",restaurant francais,Paris,75018.0,18.0,peripherie
+Becco,25.0,4.8,1259,3 Rue de Maubeuge,"Paris, Ile-de-France, France",restaurant,Paris,75009.0,9.0,centre
+Aux Mille Saveurs - Restaurant Marocain Paris 19,15.0,4.8,1050,58 Rue de lOurcq,"Paris, Ile-de-France, France",restaurant,Paris,75019.0,19.0,peripherie
+Nodaiwa,57.5,4.8,1374,272 rue Saint-Honore,"Paris, Ile-de-France, France",sushis,Paris,75001.0,1.0,centre
+Cafe Oz Grands Boulevards,15.0,4.8,5907,8 Boulevard Montmartre,"Paris, Ile-de-France, France",cafe,Paris,75009.0,9.0,centre
+Camelia,100.0,4.8,3839,251 Rue Saint-Honore,"Paris, Ile-de-France, France",restaurant,Paris,75001.0,1.0,centre
+Naruto Ramen,15.0,4.8,1019,53 Bd du Montparnasse,"Paris, Ile-de-France, France",restaurant,Paris,75015.0,15.0,intermediaire
+Laia Voltaire,23.5,4.8,3491,226 Bd Voltaire,"Paris, Ile-de-France, France",restaurant,Paris,75011.0,11.0,intermediaire
+El Chingon,25.0,4.8,2327,66 Rue du Faubourg Montmartre,"Paris, Ile-de-France, France",restaurant mexicains,Paris,75009.0,9.0,centre
+mazmez - Restaurant Libanais Paris 10,25.0,4.8,1008,70 Rue Rene Boulanger,"Paris, Ile-de-France, France",restaurant,Paris,75010.0,10.0,intermediaire
+SHIRO,100.0,4.8,8465,168 Bd Saint-Germain,"Paris, Ile-de-France, France",restaurant,Paris,75006.0,6.0,centre
+Pastamore,25.0,4.8,9827,37 Bd du Montparnasse,"Paris, Ile-de-France, France",restaurant italiens,Paris,75015.0,15.0,intermediaire
+Chez Marie,25.0,4.8,1680,22 Rue Lepic,"Paris, Ile-de-France, France",restaurant francais,Paris,75018.0,18.0,peripherie
+La Mezeterie,30.0,4.8,1455,2 Rue des Petits Carreaux,"Paris, Ile-de-France, France",restaurant,Paris,75002.0,2.0,centre
+Le Choupinet,9.0,4.8,4490,"58 Boulevard Saint-michel, 75006","Paris, Ile-de-France, France",restaurant francais,Paris,75006.0,6.0,centre
+LAltro Frenchie,15.5,4.8,286,9 Rue du Nil,"Paris, Ile-de-France, France",restaurant italiens,Paris,75002.0,2.0,centre
+Cafe du Marche,25.0,4.8,3203,38 Rue Cler,"Paris, Ile-de-France, France",cafe,Paris,75007.0,7.0,centre
+AfrikNFusion Paris 20,15.0,4.8,2956,330 Rue des Pyrenees,"Paris, Ile-de-France, France",restaurant africains,Paris,75020.0,20.0,peripherie
+Au Bourguignon du Marais,45.0,4.8,12665,52 Rue Francois Miron,"Paris, Ile-de-France, France",restaurant,Paris,75004.0,4.0,centre
+Piccola Mia,25.0,4.8,1639,4 Pl. de la Republique,"Paris, Ile-de-France, France",restaurant,Paris,75011.0,11.0,intermediaire
+Savane Mousson Restaurant - Paris 11,25.0,4.8,2639,47 Bd Richard-Lenoir,"Paris, Ile-de-France, France",restaurant,Paris,75011.0,11.0,intermediaire
+La Pate a Nouilles,15.0,4.8,2975,41 Rue de Ponthieu,"Paris, Ile-de-France, France",restaurant chinois,Paris,75008.0,8.0,centre
+Nai Brasserie,25.0,4.8,3421,"8, Avenue de la Grande Armee","Paris, Ile-de-France, France",restaurant,Paris,75017.0,17.0,peripherie
+Tout Le Monde En Parle restaurant montparnasse club,34.5,4.8,2117,4 Rue du Depart,"Paris, Ile-de-France, France",club,Paris,75015.0,15.0,intermediaire
+Poni,25.0,4.8,3774,24 Rue Saint-Lazare,"Paris, Ile-de-France, France",restaurant,Paris,75009.0,9.0,centre
+CRISPY SOUL Paris 2,15.0,4.8,2668,289 Rue St Denis,"Paris, Ile-de-France, France",fast food,Paris,75002.0,2.0,centre
+KFC Paris Chatelet,15.0,4.8,9243,31-35 Bd de Sebastopol,"Paris, Ile-de-France, France",fast food,Paris,75001.0,1.0,centre
+Marsan par Helene Darroze,100.0,4.8,1299,4 Rue dAssas,"Paris, Ile-de-France, France",restaurant francais,Paris,75006.0,6.0,centre
+Jeannot et Colin,25.0,4.8,1626,51 Bd Voltaire,"Paris, Ile-de-France, France",restaurant a viande,Paris,75011.0,11.0,intermediaire
+Semilla,48.0,4.8,3169,54 Rue de Seine,"Paris, Ile-de-France, France",restaurant,Paris,75006.0,6.0,centre
+Tadam,40.0,4.8,3392,14 Rue du Jura,"Paris, Ile-de-France, France",restaurant francais,Paris,75013.0,13.0,intermediaire
+Hammam Pacha,21.5,4.8,5198,17 Rue Mayet,"Paris, Ile-de-France, France",restaurant marocains,Paris,75006.0,6.0,centre
+Zapi,25.0,4.8,2696,7 Rue du 29 Juillet,"Paris, Ile-de-France, France",restaurant,Paris,75001.0,1.0,centre
+Bistrot Victoires,25.0,4.8,8956,6 Rue de la Vrilliere,"Paris, Ile-de-France, France",restaurant francais,Paris,75001.0,1.0,centre
+LA REGALADE,29.5,4.8,2722,106 Rue Saint-Honore,"Paris, Ile-de-France, France",restaurant francais,Paris,75001.0,1.0,centre
+DOST GRILL - Restaurant Turc Paris,25.0,4.8,1404,179 Boulevard Brune,"Paris, Ile-de-France, France",restaurant,Paris,75014.0,14.0,intermediaire
+Les Fils A Maman Paris Grands Boulevards,25.0,4.8,5860,7 Bis Rue Geoffroy Marie,"Paris, Ile-de-France, France",restaurant francais,Paris,75009.0,9.0,centre
+Joia Par Helene Darroze,53.5,4.8,5773,39 Rue des Jeuneurs,"Paris, Ile-de-France, France",restaurant espanols,Paris,75002.0,2.0,centre
+LAtlas - Paris,30.5,4.8,4315,11 Rue de Buci,"Paris, Ile-de-France, France",fruits de mer,Paris,75006.0,6.0,centre
+Capitole cafe - Sebastopol,15.0,4.8,3108,105 Boulevard Sebastopol,"Paris, Ile-de-France, France",cafe,Paris,75002.0,2.0,centre
+Le Pavillon de la Reine,112.5,4.8,769,28 Pl. des Vosges,"Paris, Ile-de-France, France",restaurant francais,Paris,75003.0,3.0,centre
+Mensae,43.0,4.8,1787,23 Rue Melingue,"Paris, Ile-de-France, France",restaurant francais,Paris,75019.0,19.0,peripherie
+Krispy Kreme - CC Forum des Halles,5.5,4.8,2052,12 Pass. de la Canopee,"Paris, Ile-de-France, France",desserts,Paris,75001.0,1.0,centre
+Cafe des Deux Moulins,15.0,4.8,11554,15 Rue Lepic,"Paris, Ile-de-France, France",cafe,Paris,75018.0,18.0,peripherie
+Lou Cantou,25.0,4.8,3003,"Acces par le, 35 cite dantin, 61 Rue de Provence","Paris, Ile-de-France, France",restaurant francais,Paris,75009.0,9.0,centre
+LAmi Jean,17.5,4.8,4356,27 Rue Malar,"Paris, Ile-de-France, France",restaurant,Paris,75007.0,7.0,centre
+Le Passage Saint Honore,30.0,4.8,3176,33 Place du Marche Saint-Honore,"Paris, Ile-de-France, France",restaurant francais,Paris,75001.0,1.0,centre
+Les Blouses Blanches,15.0,4.8,4533,186 Rue du Faubourg Saint-Antoine,"Paris, Ile-de-France, France",pub et bar,Paris,75012.0,12.0,intermediaire
+Bibie Paris,35.0,4.8,531,7 Rue Lacepede,"Paris, Ile-de-France, France",restaurant francais,Paris,75005.0,5.0,centre
+Biondi,26.0,4.8,1472,118 Rue Amelot,"Paris, Ile-de-France, France",pub et bar,Paris,75011.0,11.0,intermediaire
+Cafe de LOlympia,30.0,4.8,3660,2 Rue de Seze,"Paris, Ile-de-France, France",cafe,Paris,75009.0,9.0,centre
+UKIYO RAMEN,25.0,4.8,790,6 Rue de Douai,"Paris, Ile-de-France, France",restaurant,Paris,75009.0,9.0,centre
+Baguetts Cafe - Brunch Paris 1,25.0,4.8,5341,33 Rue de Richelieu,"Paris, Ile-de-France, France",cafe,Paris,75001.0,1.0,centre
+Pastasuta,25.0,4.8,2732,2 Rue de la Coutellerie,"Paris, Ile-de-France, France",italien,Paris,75004.0,4.0,centre
+JUNK BEAUGRENELLE,15.0,4.8,1146,8 Rue Linois,"Paris, Ile-de-France, France",fast food,Paris,75015.0,15.0,intermediaire
+Yoshinori,100.0,4.8,635,"18, Rue Gregoire de Tours","Paris, Ile-de-France, France",restaurant,Paris,75006.0,6.0,centre
+McDonalds,15.0,4.8,4684,11 Av. de Wagram,"Paris, Ile-de-France, France",fast food,Paris,75017.0,17.0,peripherie
+LElysee Saint Honore,45.0,4.8,3620,205 Rue du Faubourg Saint Honore,"Paris, Ile-de-France, France",restaurant francais,Paris,75008.0,8.0,centre
+Le 39V,100.0,4.8,1957,39 Av. George V,"Paris, Ile-de-France, France",restaurant francais,Paris,75008.0,8.0,centre
+Al Caratello,25.0,4.8,7616,5 Rue Audran,"Paris, Ile-de-France, France",restaurant italiens,Paris,75018.0,18.0,peripherie
+Il Padrino,25.0,4.8,3010,49 Rue Custine,"Paris, Ile-de-France, France",restaurant,Paris,75018.0,18.0,peripherie
+Generator Hostel,32.0,4.8,8874,9-11 Pl. du Colonel Fabien,"Paris, Ile-de-France, France",club,Paris,75010.0,10.0,intermediaire
+Le Bel Air,25.0,4.8,1093,Av. du Dr Arnold Netter,"Paris, Ile-de-France, France",cafe,Paris,75012.0,12.0,intermediaire
+Le Central,25.0,4.8,1761,139 Boulevard Sebastopol,"Paris, Ile-de-France, France",cafe,Paris,75002.0,2.0,centre
+Chenapan,100.0,4.8,488,28 Rue Louise-Emilie de la Tour dAuvergne,"Paris, Ile-de-France, France",restaurant,Paris,75009.0,9.0,centre
+Restaurant Mieux Paris 9,20.5,4.8,1184,21 Rue Saint-Lazare,"Paris, Ile-de-France, France",restaurant,Paris,75009.0,9.0,centre
+Sweeteas - Barbecue Coreen,25.0,4.8,3096,109 avenue dIvry,"Paris, Ile-de-France, France",bbq,Paris,75013.0,13.0,intermediaire
+Le Den,15.0,4.8,1468,167 Rue de Grenelle,"Paris, Ile-de-France, France",restaurant,Paris,75007.0,7.0,centre
+Le 17.45 Paris Pigalle - Planches a composer,25.0,4.8,2713,49 Rue Jean Baptiste Pigalle,"Paris, Ile-de-France, France",pub et bar,Paris,75009.0,9.0,centre
+Lunicco - Forum des Halles,5.5,4.8,3938,101 Porte Berger Westfield Forum des,"Paris, Ile-de-France, France",fast food,Paris,75001.0,1.0,centre
+Les Nouveaux Sauvages P Reunion,15.0,4.8,1602,71 Rue de la Reunion,"Paris, Ile-de-France, France",pub et bar,Paris,75020.0,20.0,peripherie
+Joyo - Azian Pub,25.0,4.8,1987,30 Bd des Italiens,"Paris, Ile-de-France, France",pub et bar,Paris,75009.0,9.0,centre
+Le Paris Paris,38.0,4.8,6678,8 Rue De Monfaucon,"Paris, Ile-de-France, France",restaurant francais,Paris,75006.0,6.0,centre
+Le Boreal,100.0,4.8,614,39 Rue Montcalm,"Paris, Ile-de-France, France",restaurant,Paris,75018.0,18.0,peripherie
+Clutch,32.5,4.8,366,62 Rue de Montreuil,"Paris, Ile-de-France, France",restaurant,Paris,75011.0,11.0,intermediaire
+Le Taillevent,100.0,4.8,2047,15 Rue Lamennais,"Paris, Ile-de-France, France",restaurant francais,Paris,75008.0,8.0,centre
+Restaurant Pantagruel Paris,100.0,4.8,1258,10 Rue de Richelieu,"Paris, Ile-de-France, France",restaurant francais,Paris,75001.0,1.0,centre
+The Canadian Embassy Pub,25.0,4.8,2105,71 Bd Gouvion-Saint-Cyr,"Paris, Ile-de-France, France",pub et bar,Paris,75017.0,17.0,peripherie
+SUGO pasta fresca - Saint-Augustin,25.0,4.8,1979,16 Rue Saint-Augustin,"Paris, Ile-de-France, France",italien,Paris,75002.0,2.0,centre
+Partie de Campagne,25.0,4.8,4558,36 Cr Saint-Emilion,"Paris, Ile-de-France, France",restaurant francais,Paris,75012.0,12.0,intermediaire
+Manhattns Burgers,15.0,4.8,726,13 R. du Renard,"Paris, Ile-de-France, France",restaurant,Paris,75004.0,4.0,centre
+Le CasseNoix,45.0,4.8,1761,56 Rue de la Federation,"Paris, Ile-de-France, France",restaurant,Paris,75015.0,15.0,intermediaire
+Bistro Ramen Ryukishin,25.0,4.8,2339,59 Rue de Richelieu,"Paris, Ile-de-France, France",restaurant,Paris,75002.0,2.0,centre
+RESTAURANT ARNAUD NICOLAS,32.5,4.8,1537,46 Av. de la Bourdonnais,"Paris, Ile-de-France, France",restaurant francais,Paris,75007.0,7.0,centre
+Le Florimond,32.5,4.8,2178,19 Av. de la Motte-Picquet,"Paris, Ile-de-France, France",restaurant,Paris,75007.0,7.0,centre
+Monsieur Maillot,40.0,4.8,893,99 Bd Gouvion-Saint-Cyr,"Paris, Ile-de-France, France",cafe,Paris,75017.0,17.0,peripherie
+Cafe des Ministeres,72.0,4.8,709,83 Rue de lUniversite,"Paris, Ile-de-France, France",cafe,Paris,75007.0,7.0,centre
+Restaurant Le Coupe-Chou,32.5,4.8,5265,11 Rue de Lanneau,"Paris, Ile-de-France, France",restaurant francais,Paris,75005.0,5.0,centre
+Yatai Ramen Pyramides,25.0,4.8,3912,7 Pass. Choiseul,"Paris, Ile-de-France, France",restaurant,Paris,75002.0,2.0,centre
+BISTROT DE LA TOUR EIFFEL,20.0,4.8,5961,21 Av. de la Bourdonnais,"Paris, Ile-de-France, France",cafe,Paris,75007.0,7.0,centre
+Pub St Germain,20.0,4.8,6325,17 Rue de lAncienne Comedie,"Paris, Ile-de-France, France",pub et bar,Paris,75006.0,6.0,centre
+Pinocchio - Restaurant Italien Paris 14,25.0,4.8,3269,19 Bd Edgar Quinet,"Paris, Ile-de-France, France",restaurant,Paris,75014.0,14.0,intermediaire
+OKOMUSU,25.0,4.8,1940,11 Rue Charlot,"Paris, Ile-de-France, France",sushis,Paris,75003.0,3.0,centre
+Royal Dragon,25.0,4.8,10208,"18 Rue Delambre, 98 Bd du Montparnasse","Paris, Ile-de-France, France",cafeteria,Paris,75014.0,14.0,intermediaire
+Le comptoir du Relais,15.0,4.8,3793,9 Carr de lOdeon,"Paris, Ile-de-France, France",restaurant francais,Paris,75006.0,6.0,centre
+La Scene Theleme,100.0,4.8,1400,18 Rue Troyon,"Paris, Ile-de-France, France",restaurant,Paris,75017.0,17.0,peripherie
+VIET 1331,15.0,4.8,1348,86 Av. dIvry,"Paris, Ile-de-France, France",restaurant vietnamiens,Paris,75013.0,13.0,intermediaire
+Restaurant le Meurice Alain Ducasse,100.0,4.8,2431,228 Rue de Rivoli,"Paris, Ile-de-France, France",restaurant francais,Paris,75001.0,1.0,centre
+Les Fondus de la Raclette Montparnasse,21.5,4.8,6894,209 Bd Raspail,"Paris, Ile-de-France, France",restaurant francais,Paris,75014.0,14.0,intermediaire
+CAFE PALAIS ROYAL Brasserie,20.0,4.8,3707,202 Rue Saint-Honore,"Paris, Ile-de-France, France",cafe,Paris,75001.0,1.0,centre
+Dalmata Paris 2,15.0,4.8,5352,8 Rue Tiquetonne,"Paris, Ile-de-France, France",pizzeria,Paris,75002.0,2.0,centre
+Depot Legal Montparnasse,20.0,4.8,2618,17 Rue du Depart,"Paris, Ile-de-France, France",cafe,Paris,75015.0,15.0,intermediaire
+Les Canailles,52.0,4.8,2378,25 Rue la Bruyere,"Paris, Ile-de-France, France",restaurant,Paris,75009.0,9.0,centre
+Le Clown Bar - Restaurant,30.5,4.8,2069,114 Rue Amelot,"Paris, Ile-de-France, France",pub et bar,Paris,75011.0,11.0,intermediaire
+LHommage,42.5,4.8,1555,36 Av. de Choisy,"Paris, Ile-de-France, France",restaurant francais,Paris,75013.0,13.0,intermediaire
+Dessirier,100.0,4.8,1566,"9, place du Marechal Juin","Paris, Ile-de-France, France",fruits de mer,Paris,75017.0,17.0,peripherie
+Claudia Paris,25.0,4.8,1315,51 Av. de la Motte-Picquet,"Paris, Ile-de-France, France",restaurant italiens,Paris,75015.0,15.0,intermediaire
+Contraste,100.0,4.8,862,18 Rue dAnjou,"Paris, Ile-de-France, France",restaurant francais,Paris,75008.0,8.0,centre
+Made in Italy Capucines,15.0,4.8,690,22 Rue des Capucines,"Paris, Ile-de-France, France",fast food,Paris,75002.0,2.0,centre
+Loffice,26.0,4.8,1484,3 Rue Richer,"Paris, Ile-de-France, France",pub et bar,Paris,75009.0,9.0,centre
+Tentazioni - Trattoria Lepic,25.0,4.8,2945,86 Bis Rue Lepic,"Paris, Ile-de-France, France",italien,Paris,75018.0,18.0,peripherie
+Mova,43.0,4.8,772,39 Rue des Dames,"Paris, Ile-de-France, France",restaurant francais,Paris,75017.0,17.0,peripherie
+La Truffiere,89.5,4.8,3660,4 Rue Blainville,"Paris, Ile-de-France, France",restaurant francais,Paris,75005.0,5.0,centre
+Le Speakeasy,100.0,4.8,4740,25 Rue Jean Giraudoux,"Paris, Ile-de-France, France",club,Paris,75016.0,16.0,peripherie
+Hayaku Cafe,15.0,4.8,807,9 R. de la Monnaie,"Paris, Ile-de-France, France",cafe,Paris,75001.0,1.0,centre
+Food Breizh,15.0,4.8,1166,31 Quai Anatole France,"Paris, Ile-de-France, France",desserts,Paris,75007.0,7.0,centre
+Le Colimacon marais,59.0,4.8,4369,44 Rue Vieille du Temple,"Paris, Ile-de-France, France",restaurant,Paris,75004.0,4.0,centre
+Campelli by Vartivar Jarkezian,100.0,4.8,535,36 Rue Croix des Petits Champs,"Paris, Ile-de-France, France",restaurant,Paris,75001.0,1.0,centre
+Perchiana,25.0,4.8,6959,7 Rue Mademoiselle,"Paris, Ile-de-France, France",restaurant,Paris,75015.0,15.0,intermediaire
+MASTER POULET - Menilmontant - Oberkampf,5.5,4.8,1432,156 Rue Oberkampf,"Paris, Ile-de-France, France",restaurant,Paris,75011.0,11.0,intermediaire
+Les Arlots,30.5,4.8,1570,136 Rue du Faubourg Poissonniere,"Paris, Ile-de-France, France",pub et bar,Paris,75010.0,10.0,intermediaire
+The French Flair,15.0,4.8,3042,75 Bis Bd de Clichy,"Paris, Ile-de-France, France",bars a cocktails,Paris,75009.0,9.0,centre
+Restaurant David Toutain,100.0,4.8,2651,29 Rue Surcouf,"Paris, Ile-de-France, France",restaurant francais,Paris,75007.0,7.0,centre
+Chipie Club,15.0,4.8,1197,134 Rue dAboukir,"Paris, Ile-de-France, France",club,Paris,75002.0,2.0,centre
+Public House Paris,45.0,4.8,3131,21 Rue Daunou,"Paris, Ile-de-France, France",restaurant britanniques,Paris,75002.0,2.0,centre
+Restaurant Marius,100.0,4.8,777,82 Bd Murat,"Paris, Ile-de-France, France",restaurant francais,Paris,75016.0,16.0,peripherie
+Les Jardins du Presbourg,51.5,4.8,2259,Les Jardins du Presbourg,"Paris, Ile-de-France, France",restaurant francais,Paris,75116.0,16.0,peripherie
+Le Diamant Bleu - Diner Croisiere,100.0,4.8,743,2 Rue du Ranelagh,"Paris, Ile-de-France, France",restaurant,Paris,75013.0,13.0,intermediaire
+Joya,25.0,4.8,3003,47 Rue St Charles,"Paris, Ile-de-France, France",restaurant italiens,Paris,75015.0,15.0,intermediaire
+Pedzouille La Grange,15.5,4.8,3858,"Novotel Paris Porte de Versailles, 4 Av. de la Prte de la Plaine Rooftop - 8eme etage","Paris, Ile-de-France, France",restaurant,Paris,75015.0,15.0,intermediaire
+Le Dome Villiers - Paris,41.0,4.8,5467,4 Av. de Villiers,"Paris, Ile-de-France, France",cafe,Paris,75017.0,17.0,peripherie
+Burger King,15.0,4.8,5307,25 Rue De Dunkerque,"Paris, Ile-de-France, France",fast food,Paris,75010.0,10.0,intermediaire
+Slow,25.0,4.8,542,4 Rue Danville,"Paris, Ile-de-France, France",restaurant,Paris,75014.0,14.0,intermediaire
+Kuna Bada,25.0,4.8,1022,42 Rue dArgout,"Paris, Ile-de-France, France",restaurant,Paris,75002.0,2.0,centre
+BISTROT MEE,25.0,4.8,5887,5 Rue dArgenteuil,"Paris, Ile-de-France, France",restaurant coreens,Paris,75001.0,1.0,centre
+The Moose,25.0,4.8,6061,16 Rue des Quatre Vents,"Paris, Ile-de-France, France",pub et bar,Paris,75006.0,6.0,centre
+Experimental Cocktail Club,15.0,4.8,4181,37 Rue Saint-Sauveur,"Paris, Ile-de-France, France",club,Paris,75002.0,2.0,centre
+BAFFO,100.0,4.8,981,12 Rue Pecquay,"Paris, Ile-de-France, France",italien,Paris,75004.0,4.0,centre
+114 Faubourg,100.0,4.8,2661,114 Rue du Faubourg Saint-Honore,"Paris, Ile-de-France, France",restaurant,Paris,75008.0,8.0,centre
+Takesan Donabe Ramen,15.0,4.8,1671,20 Rue de la Michodiere,"Paris, Ile-de-France, France",restaurant,Paris,75002.0,2.0,centre
+Restaurant La Mediterranee,63.5,4.8,1534,2 Pl. de lOdeon,"Paris, Ile-de-France, France",restaurant,Paris,75006.0,6.0,centre
+La Traboule,38.0,4.8,1617,27-29 rue de Penthievre,"Paris, Ile-de-France, France",restaurant,Paris,75008.0,8.0,centre
+Maison Pinsa Grands Boulevards,25.0,4.8,2365,8 Rue du Faubourg Poissonniere,"Paris, Ile-de-France, France",pizzeria,Paris,75010.0,10.0,intermediaire
+Ostra Paris - Restaurant Oyster Bar a huitres sea food,25.0,4.8,2165,17 Rue du Petit Pont,"Paris, Ile-de-France, France",restaurant,Paris,75005.0,5.0,centre
+Au Ptit Grec,5.5,4.8,9873,68 Rue Mouffetard,"Paris, Ile-de-France, France",desserts,Paris,75005.0,5.0,centre
+Terre dAzur Arc de Triomphe - Brunch Coffee Shop Lunch,25.0,4.8,4424,10 Av. de Wagram,"Paris, Ile-de-France, France",cafe,Paris,75008.0,8.0,centre
+yume house,25.0,4.8,1031,7 Pl. Jean-Michel Basquiat,"Paris, Ile-de-France, France",cafeteria,Paris,75013.0,13.0,intermediaire
+Setopa,35.0,4.8,186,6 Rue Dupuytren,"Paris, Ile-de-France, France",restaurant coreens,Paris,75006.0,6.0,centre
+Pizzou Pigalle,15.0,4.8,2542,28 Rue de Douai,"Paris, Ile-de-France, France",pizzeria,Paris,75009.0,9.0,centre
+Sushi House,25.0,4.8,2979,80 Rue du Faubourg Poissonniere,"Paris, Ile-de-France, France",restaurant,Paris,75009.0,9.0,centre
+Ptit Coco,25.0,4.8,829,12 Place dItalie,"Paris, Ile-de-France, France",cafe,Paris,75013.0,13.0,intermediaire
+JJIN Korean Barbecue,30.0,4.8,2821,35 Rue de la Gaite,"Paris, Ile-de-France, France",bbq,Paris,75014.0,14.0,intermediaire
+Uma Nota,22.5,4.8,3748,86 Rue Reaumur,"Paris, Ile-de-France, France",restaurant,Paris,75002.0,2.0,centre
+Marcello,30.0,4.8,3883,8 Rue Mabillon,"Paris, Ile-de-France, France",italien,Paris,75006.0,6.0,centre
+Margaux,21.5,4.8,727,10 Av. de New York,"Paris, Ile-de-France, France",restaurant francais,Paris,75116.0,16.0,peripherie
+Noura Opera,25.0,4.8,4204,29 Bd des Italiens,"Paris, Ile-de-France, France",restaurant,Paris,75002.0,2.0,centre
+La Maison des Nouilles,15.0,4.8,1952,"8, rue de Castellane","Paris, Ile-de-France, France",chinois,Paris,75008.0,8.0,centre
+Les Delices du Kashmir,25.0,4.8,4368,19 Rue du Depart,"Paris, Ile-de-France, France",restaurant,Paris,75014.0,14.0,intermediaire
+Restaurant Jacques Faussat,100.0,4.8,1274,54 Rue Cardinet,"Paris, Ile-de-France, France",restaurant francais,Paris,75017.0,17.0,peripherie
+BAM Karaoke Box Etoile,20.0,4.8,1751,69 Avenue De Wagram,"Paris, Ile-de-France, France",bars a cocktails,Paris,75017.0,17.0,peripherie
+Shabestan Champs-Elysees,33.0,4.8,3079,5 Rue du Commandant Riviere,"Paris, Ile-de-France, France",restaurant,Paris,75008.0,8.0,centre
+A la Biche au bois,45.0,4.8,3035,45 Avenue Ledru-Rollin,"Paris, Ile-de-France, France",restaurant francais,Paris,75012.0,12.0,intermediaire
+Comme un Bouillon,15.0,4.8,3147,17 Rue de Choiseul,"Paris, Ile-de-France, France",restaurant francais,Paris,75002.0,2.0,centre
+Chez Marguerite . Bouillon Parisien,25.0,4.8,1069,"82 Boulevard Marguerite De Rochechouart, Montmartre","Paris, Ile-de-France, France",restaurant francais,Paris,75018.0,18.0,peripherie
+Restaurant H,100.0,4.8,1512,13 Rue Jean Beausire,"Paris, Ile-de-France, France",restaurant francais,Paris,75004.0,4.0,centre
+Republique Of Coffee,15.0,4.8,2762,2 Bd Saint-Martin,"Paris, Ile-de-France, France",cafe,Paris,75010.0,10.0,intermediaire
+Coretta,35.0,4.8,2555,151 Bis Rue Cardinet,"Paris, Ile-de-France, France",restaurant francais,Paris,75017.0,17.0,peripherie
+Gueuleton - Paris,15.0,4.8,1611,7 Rue Guersant,"Paris, Ile-de-France, France",restaurant,Paris,75017.0,17.0,peripherie
+Le Deauville,32.0,4.8,6837,75 Av. des Champs-Elysees,"Paris, Ile-de-France, France",restaurant francais,Paris,75008.0,8.0,centre
+Atelier Maitre Albert,63.0,4.8,2554,1 Rue Maitre Albert,"Paris, Ile-de-France, France",restaurant,Paris,75005.0,5.0,centre
+Brasserie Rosie Lou,25.0,4.8,2984,31 Bd de Bonne Nouvelle,"Paris, Ile-de-France, France",restaurant francais,Paris,75002.0,2.0,centre
+Lai-lai Ken,15.0,4.8,3593,7 Rue Sainte-Anne,"Paris, Ile-de-France, France",restaurant,Paris,75001.0,1.0,centre
+Tentazioni - Bistrot Abbesses,25.0,4.8,857,10 Rue Aristide Bruant,"Paris, Ile-de-France, France",restaurant italiens,Paris,75018.0,18.0,peripherie
+Le Cherine,50.0,4.8,1269,74 Rue de la Croix Nivert,"Paris, Ile-de-France, France",restaurant,Paris,75015.0,15.0,intermediaire
+Le Saloon Far West - Bar Paris 11,15.0,4.8,3828,3 Rue Faidherbe,"Paris, Ile-de-France, France",bars a cocktails,Paris,75011.0,11.0,intermediaire
+Bohemia Cafe,25.0,4.8,830,30 Rue de Richelieu,"Paris, Ile-de-France, France",cafe,Paris,75001.0,1.0,centre
+Xiao Long Kan,25.0,4.8,3280,8 Rue Saint-Marc,"Paris, Ile-de-France, France",italien,Paris,75002.0,2.0,centre
+La Taverne De ZHAO,15.0,4.8,2891,22 Rue Moliere,"Paris, Ile-de-France, France",chinois,Paris,75001.0,1.0,centre
+Zara Food,15.0,4.8,1318,84 Rue de Menilmontant,"Paris, Ile-de-France, France",restaurant africains,Paris,75020.0,20.0,peripherie
+The Hood Paris,13.0,4.8,2184,80 Rue Jean Pierre Timbaud,"Paris, Ile-de-France, France",cafe,Paris,75011.0,11.0,intermediaire
+Restaurant Trente-Trois,89.0,4.8,487,33 Rue Jean Goujon,"Paris, Ile-de-France, France",restaurant francais,Paris,75008.0,8.0,centre
+Le Centenaire,25.0,4.8,1807,27 Bd de la Tour-Maubourg,"Paris, Ile-de-France, France",restaurant,Paris,75007.0,7.0,centre
+P1 Bouche,15.0,4.8,913,151bis Rue Marcadet,"Paris, Ile-de-France, France",restaurant mediterraneens,Paris,75018.0,18.0,peripherie
+Cafe A,25.0,4.8,7296,"Maison de lArchitecture, 148 Rue du Faubourg Saint-Martin","Paris, Ile-de-France, France",cafe,Paris,75010.0,10.0,intermediaire
+El Cartel Del Taco,25.0,4.8,2163,227 Rue La Fayette,"Paris, Ile-de-France, France",restaurant mexicains,Paris,75010.0,10.0,intermediaire
+Le temps des cerises,21.5,4.8,3371,31 Rue de la Cerisaie,"Paris, Ile-de-France, France",restaurant francais,Paris,75004.0,4.0,centre
+Brasserie Flora,25.0,4.8,697,9 Boulevard Poissonniere,"Paris, Ile-de-France, France",restaurant italiens,Paris,75009.0,9.0,centre
+Papilles,25.0,4.8,3260,77 Rue Marguerite de Rochechouart,"Paris, Ile-de-France, France",cafe,Paris,75009.0,9.0,centre
+LOrangerie,100.0,4.8,1263,31 Av. George V,"Paris, Ile-de-France, France",restaurant francais,Paris,75008.0,8.0,centre
+Chez Monsieur,90.0,4.8,1686,11 Rue du Chevalier de Saint-George,"Paris, Ile-de-France, France",restaurant francais,Paris,75008.0,8.0,centre
+Le Petit Lucas,72.5,4.8,308,9 Place De La Madeleine,"Paris, Ile-de-France, France",restaurant francais,Paris,75008.0,8.0,centre
+Les Marches,13.0,4.8,3832,5 Rue de la Manutention,"Paris, Ile-de-France, France",restaurant francais,Paris,75116.0,16.0,peripherie
+La Brigade - Opera,15.0,4.8,3653,25 Bd des Italiens,"Paris, Ile-de-France, France",restaurant,Paris,75002.0,2.0,centre
+LAntre Amis,36.0,4.8,1636,9 Rue Bouchut,"Paris, Ile-de-France, France",restaurant francais,Paris,75015.0,15.0,intermediaire
+Brocart,15.0,4.8,1672,1 Rue de Maubeuge,"Paris, Ile-de-France, France",restaurant syriens,Paris,75009.0,9.0,centre
+LEuropeen,30.5,4.8,9150,21 bis Bd Diderot,"Paris, Ile-de-France, France",fruits de mer,Paris,75012.0,12.0,intermediaire
+brEAThe Restaurant Sushi vegetal,30.0,4.8,3120,3 Rue Mandar,"Paris, Ile-de-France, France",sushis,Paris,75002.0,2.0,centre
+LAlmanach Montmartre,26.0,4.8,915,35 Rue Ramey,"Paris, Ile-de-France, France",restaurant,Paris,75018.0,18.0,peripherie
+Kintaro,15.0,4.8,9854,24 Rue Saint-Augustin,"Paris, Ile-de-France, France",sushis,Paris,75002.0,2.0,centre
+Da Long Yi,35.0,4.8,1653,74 Bd de Sebastopol,"Paris, Ile-de-France, France",restaurant chinois,Paris,75003.0,3.0,centre
+La Ferrandaise table gourmande GaultMillau 2025,45.0,4.8,1528,8 Rue de Vaugirard,"Paris, Ile-de-France, France",restaurant francais,Paris,75006.0,6.0,centre
+Apicius,100.0,4.8,1382,20 Rue Dartois,"Paris, Ile-de-France, France",restaurant francais,Paris,75008.0,8.0,centre
+Baronne,100.0,4.8,1043,11 Rue Berryer,"Paris, Ile-de-France, France",restaurant,Paris,75008.0,8.0,centre
+Le Ptit Breton Denfert,25.0,4.8,687,6 Rue Brezin,"Paris, Ile-de-France, France",desserts,Paris,75014.0,14.0,intermediaire
+La Canopee,45.0,4.8,1178,14 Rue Jean-Baptiste Pigalle,"Paris, Ile-de-France, France",restaurant,Paris,75009.0,9.0,centre
+PAN,25.0,4.8,704,6 Rue de Paradis,"Paris, Ile-de-France, France",pub et bar,Paris,75010.0,10.0,intermediaire
+Feria Cafe,15.0,4.8,4042,4 Rue du Bourg Tibourg,"Paris, Ile-de-France, France",cafe,Paris,75004.0,4.0,centre
+Raviolis Nord Est,15.0,4.8,2440,115 Rue St Denis,"Paris, Ile-de-France, France",chinois,Paris,75001.0,1.0,centre
+Le Peloton Cafe,5.5,4.8,2329,17 Rue du Pont Louis-Philippe,"Paris, Ile-de-France, France",cafe,Paris,75004.0,4.0,centre
+Terminus Nord,34.5,4.8,11254,23 Rue de Dunkerque,"Paris, Ile-de-France, France",restaurant francais,Paris,75010.0,10.0,intermediaire
+Bistrot Richelieu,30.0,4.8,4687,45 Rue de Richelieu,"Paris, Ile-de-France, France",restaurant francais,Paris,75001.0,1.0,centre
+Restaurant Chez les 4 Freres Bedri,15.0,4.8,1671,38 Rue Louis Blanc,"Paris, Ile-de-France, France",restaurant,Paris,75010.0,10.0,intermediaire
+Tavline,36.5,4.8,1291,25 Rue du Roi de Sicile,"Paris, Ile-de-France, France",restaurant israeliens,Paris,75004.0,4.0,centre
+Juji-ya,15.0,4.8,2528,46 Rue Sainte-Anne,"Paris, Ile-de-France, France",sushis,Paris,75002.0,2.0,centre
+Cafe Le Quartier General,25.0,4.8,2738,82 Boulevard Saint Germain,"Paris, Ile-de-France, France",cafe,Paris,75005.0,5.0,centre
+LArcheste,100.0,4.8,819,79 Rue de la Tour,"Paris, Ile-de-France, France",restaurant francais,Paris,75116.0,16.0,peripherie
+Sacree Fleur Restaurant - Montmarte,25.5,4.8,7875,50 Rue de Clignancourt,"Paris, Ile-de-France, France",restaurant,Paris,75018.0,18.0,peripherie
+Restaurant Pages,100.0,4.8,792,4 Rue Auguste Vacquerie,"Paris, Ile-de-France, France",restaurant francais,Paris,75116.0,16.0,peripherie
+Gast - Paris 1,25.0,4.8,1411,14 Rue Bertin Poiree,"Paris, Ile-de-France, France",restaurant,Paris,75001.0,1.0,centre
+Costadoro Social Coffee,15.0,4.8,1621,91 Rue de Rivoli,"Paris, Ile-de-France, France",cafe georgien,Paris,75001.0,1.0,centre
+PITA Opera,15.0,4.8,948,18 Rue De La Michodiere,"Paris, Ile-de-France, France",restaurant mediterraneens,Paris,75002.0,2.0,centre
+FRESH NOODLES RESTAURANT,15.0,4.8,1067,60 Rue Rambuteau,"Paris, Ile-de-France, France",restaurant,Paris,75003.0,3.0,centre
+Les Etoiles,20.0,4.8,3941,61 Rue du Chateau dEau,"Paris, Ile-de-France, France",club,Paris,75010.0,10.0,intermediaire
+Naruto Ramen,15.0,4.8,2348,57 Rue du Faubourg Montmartre,"Paris, Ile-de-France, France",restaurant,Paris,75009.0,9.0,centre
+Pere Fish,15.0,4.8,5074,67 Rue du Faubourg Poissonniere,"Paris, Ile-de-France, France",fruits de mer,Paris,75009.0,9.0,centre
+Boulangerie BOMIE Turbigo,5.5,4.8,7842,18 R. de Turbigo,"Paris, Ile-de-France, France",cafe,Paris,75002.0,2.0,centre
+Bistrot de la Gare,25.0,4.8,2965,1 Rue de Lyon,"Paris, Ile-de-France, France",restaurant francais,Paris,75012.0,12.0,intermediaire
+Le Cheval dOr,100.0,4.8,594,21 Rue de la Villette,"Paris, Ile-de-France, France",restaurant,Paris,75019.0,19.0,peripherie
+La Creme De Paris Grands-boulevards,15.0,4.8,7934,4 Rue du Faubourg Montmartre,"Paris, Ile-de-France, France",desserts,Paris,75009.0,9.0,centre
+Shukery coffee matcha,5.5,4.8,751,18 Av. de lOpera,"Paris, Ile-de-France, France",cafe,Paris,75001.0,1.0,centre
+Yatai Ramen Bastille,25.0,4.8,792,22 Rue de la Roquette,"Paris, Ile-de-France, France",restaurant,Paris,75011.0,11.0,intermediaire
+LAssiette,33.5,4.8,1990,181 Rue du Chateau,"Paris, Ile-de-France, France",restaurant francais,Paris,75014.0,14.0,intermediaire
+Hippopotamus Steakhouse,25.0,4.8,6592,12-14 Rue De Rome,"Paris, Ile-de-France, France",restaurant a viande,Paris,75008.0,8.0,centre
+Imperial Treasure Fine Chinese Cuisine,100.0,4.8,629,44 Rue de Bassano,"Paris, Ile-de-France, France",chinois,Paris,75008.0,8.0,centre
+Les Baux de Paris,25.0,4.8,2710,71 Rue Mouffetard,"Paris, Ile-de-France, France",restaurant,Paris,75005.0,5.0,centre
+Liquide,70.0,4.8,1298,39 Rue de lArbre Sec,"Paris, Ile-de-France, France",restaurant francais,Paris,75001.0,1.0,centre
+Alluma,40.5,4.8,553,151 Rue Saint-Maur,"Paris, Ile-de-France, France",restaurant,Paris,75011.0,11.0,intermediaire
+Tripletta Latin,15.0,4.8,1333,2 Bis Rue de lArbalete,"Paris, Ile-de-France, France",pizzeria,Paris,75005.0,5.0,centre
+Benihana Paris,100.0,4.8,710,163 Rue Saint-Honore,"Paris, Ile-de-France, France",restaurant,Paris,75001.0,1.0,centre
+Auguste,100.0,4.8,1793,54 Rue de Bourgogne,"Paris, Ile-de-France, France",restaurant,Paris,75007.0,7.0,centre
+Yoru Paris,23.5,4.8,4737,62 rue de la roquette,"Paris, Ile-de-France, France",restaurant,Paris,75011.0,11.0,intermediaire
+Harpers Paris 15,25.0,4.8,5108,46 Bis Bd du Montparnasse,"Paris, Ile-de-France, France",restaurant,Paris,75015.0,15.0,intermediaire
+TI AMO - PLACE DITALIE,15.0,4.8,2971,27 Bd Auguste Blanqui,"Paris, Ile-de-France, France",restaurant,Paris,75013.0,13.0,intermediaire
+Table Penja,75.0,4.8,126,2 Rue Sedillot,"Paris, Ile-de-France, France",restaurant,Paris,75007.0,7.0,centre
+Le 975 - Restaurant Paris 18,25.0,4.8,2006,"185 rue Marcadet, 75018","Paris, Ile-de-France, France",restaurant francais,Paris,75018.0,18.0,peripherie
+Mangez et cassez-vous,5.5,4.8,4153,39 Rue Taitbout,"Paris, Ile-de-France, France",restaurant,Paris,75009.0,9.0,centre
+Voyage Samaritaine,32.0,4.8,1382,9 Rue De La Monnaie,"Paris, Ile-de-France, France",restaurant,Paris,75001.0,1.0,centre
+Alleno Paris - Yannick Alleno,100.0,4.8,1405,8 Av. Dutuit,"Paris, Ile-de-France, France",restaurant francais,Paris,75008.0,8.0,centre
+KFC Paris Convention,15.0,4.8,5361,349 Rue de Vaugirard,"Paris, Ile-de-France, France",fast food,Paris,75015.0,15.0,intermediaire
+KUBRI,32.5,4.8,1449,108 Rue Amelot,"Paris, Ile-de-France, France",restaurant,Paris,75011.0,11.0,intermediaire
+Le Bistro des Galopins,15.0,4.8,1757,66 Rue de Clichy,"Paris, Ile-de-France, France",pub et bar,Paris,75009.0,9.0,centre
+La Machine du Moulin Rouge,25.0,4.8,1405,90 Bd de Clichy,"Paris, Ile-de-France, France",club,Paris,75018.0,18.0,peripherie
+Terres de Cafe Paris Saint-Honore,5.5,4.8,1240,150 Rue Saint-Honore,"Paris, Ile-de-France, France",cafe,Paris,75001.0,1.0,centre
+Aux Crus de Bourgogne,40.5,4.8,1934,3 Rue Bachaumont,"Paris, Ile-de-France, France",restaurant francais,Paris,75002.0,2.0,centre
+LArdoise,42.0,4.8,2087,28 Rue du Mont Thabor,"Paris, Ile-de-France, France",restaurant francais,Paris,75001.0,1.0,centre
+Les Cuivres - Restaurant Paris 11,30.0,4.8,2423,68 Av. de la Republique,"Paris, Ile-de-France, France",restaurant francais,Paris,75011.0,11.0,intermediaire
+Chamas Tacos Paris 19,15.0,4.8,4475,99 Avenue Jean Jaures,"Paris, Ile-de-France, France",restaurant,Paris,75019.0,19.0,peripherie
+LAs du Fallafel,15.0,4.8,23427,34 Rue des Rosiers,"Paris, Ile-de-France, France",restaurant,Paris,75004.0,4.0,centre
+Mandarin de Choisy,15.0,4.8,1594,135 Rue de Tolbiac,"Paris, Ile-de-France, France",restaurant,Paris,75013.0,13.0,intermediaire
+Table Bruno Verjus,100.0,4.8,1248,3 R. de Prague,"Paris, Ile-de-France, France",restaurant francais,Paris,75012.0,12.0,intermediaire
+Le Carolus,15.0,4.8,3203,130 Ter Bd de Clichy,"Paris, Ile-de-France, France",pub et bar,Paris,75018.0,18.0,peripherie
+Le Marais Restaurant Paris,25.0,4.8,2308,47 Rue de Turbigo,"Paris, Ile-de-France, France",restaurant,Paris,75003.0,3.0,centre
+PNY,25.0,4.8,3612,24 Rue Pierre Fontaine,"Paris, Ile-de-France, France",fast food,Paris,75009.0,9.0,centre
+Old Shalimar,15.0,4.8,2000,92 Pass. Brady,"Paris, Ile-de-France, France",restaurant indiens,Paris,75010.0,10.0,intermediaire
+Lyoom Cantine - restaurant traditionnel Tunisien,20.0,4.8,1120,70 Rue Jean-Pierre Timbaud,"Paris, Ile-de-France, France",restaurant tunisiens,Paris,75011.0,11.0,intermediaire
+Guefen,100.0,4.8,264,212 bis Rue de Charenton,"Paris, Ile-de-France, France",restaurant cacher,Paris,75003.0,3.0,centre
+Restaurant Quelque part... Les abysses,100.0,4.8,565,1 Rue Ambroise Thomas,"Paris, Ile-de-France, France",restaurant francais,Paris,75009.0,9.0,centre
+Les Jardins Contini,25.0,4.8,3645,49 Av. du General Leclerc,"Paris, Ile-de-France, France",restaurant,Paris,75014.0,14.0,intermediaire
+ROSEMONDE BY PATROL,25.0,4.8,1953,2 Pl. Edmond Rostand,"Paris, Ile-de-France, France",restaurant,Paris,75006.0,6.0,centre
+Ploc,25.0,4.8,175,"17 Rue Saint-Blaise 15, 15","Paris, Ile-de-France, France",pub et bar,Paris,75020.0,20.0,peripherie
+La Fontaine Gaillon,100.0,4.8,1302,1 Rue de la Michodiere,"Paris, Ile-de-France, France",restaurant francais,Paris,75002.0,2.0,centre
+Truffes Folies 8 Eme,34.5,4.8,4466,48 Rue de Berri,"Paris, Ile-de-France, France",restaurant,Paris,75008.0,8.0,centre
+Le Servan,65.0,4.8,1664,32 Rue Saint-Maur,"Paris, Ile-de-France, France",restaurant,Paris,75011.0,11.0,intermediaire
+Sushi Yoshinaga,100.0,4.8,144,27 Rue du 4 septembre,"Paris, Ile-de-France, France",sushis,Paris,75002.0,2.0,centre
+Violetta Et Alfredo - Salon De The,25.0,4.8,3700,30 Rue de Trevise,"Paris, Ile-de-France, France",desserts,Paris,75009.0,9.0,centre
+Tomy Co,100.0,4.8,1777,22 Rue Surcouf,"Paris, Ile-de-France, France",restaurant francais,Paris,75007.0,7.0,centre
+Restaurant Gaya,100.0,4.8,1175,6 Rue de Saint-Simon,"Paris, Ile-de-France, France",restaurant,Paris,75007.0,7.0,centre
+Hippopotamus Steakhouse,25.0,4.8,3916,5 Boulevard Des Batignolles,"Paris, Ile-de-France, France",restaurant a viande,Paris,75008.0,8.0,centre
+Les Enfants Rouges,45.0,4.8,2128,9 Rue de Beauce,"Paris, Ile-de-France, France",restaurant,Paris,75003.0,3.0,centre
+Ristorante lAngelina,25.0,4.8,1314,61 Av. de France,"Paris, Ile-de-France, France",restaurant italiens,Paris,75013.0,13.0,intermediaire
+Cafe Oz Denfert - The Australian Bar,20.0,4.8,11024,"3, place Denfert-Rochereau","Paris, Ile-de-France, France",cafe,Paris,75014.0,14.0,intermediaire
+SOBERANO,25.0,4.8,864,14 Rue de la Roquette,"Paris, Ile-de-France, France",restaurant,Paris,75011.0,11.0,intermediaire
+Auberge Bressane,25.5,4.8,3125,16 Av. de la Motte-Picquet,"Paris, Ile-de-France, France",pub et bar,Paris,75007.0,7.0,centre
+Les Parigots,25.0,4.8,2358,5 rue du Chateau dEau,"Paris, Ile-de-France, France",restaurant,Paris,75010.0,10.0,intermediaire
+Green Farmers Paris,15.0,4.8,1446,49 Bd de Clichy,"Paris, Ile-de-France, France",vegetarien,Paris,75009.0,9.0,centre
+Qui plume la lune,100.0,4.8,1800,50 Rue Amelot,"Paris, Ile-de-France, France",restaurant francais,Paris,75011.0,11.0,intermediaire
+Le Ptit Breton Opera,25.0,4.8,2102,12 Rue de Port-Mahon,"Paris, Ile-de-France, France",desserts,Paris,75002.0,2.0,centre
+Le 17.45 Paris Ramey - Planches a composer,25.0,4.8,734,54 Rue Ramey,"Paris, Ile-de-France, France",restaurant francais,Paris,75018.0,18.0,peripherie
+DeKa,25.0,4.8,812,4 Rue Hermel,"Paris, Ile-de-France, France",cafe,Paris,75018.0,18.0,peripherie
+BISTROT 20 LE VINGT,25.0,4.8,2918,20 Rue Saint-Severin,"Paris, Ile-de-France, France",restaurant francais,Paris,75005.0,5.0,centre
+Papilla Brochant,25.0,4.8,2048,127 Av. de Clichy,"Paris, Ile-de-France, France",restaurant,Paris,75017.0,17.0,peripherie
+Bowly Wood,15.0,4.8,1258,3 Rue Vignon,"Paris, Ile-de-France, France",restaurant,Paris,75008.0,8.0,centre
+Zeyer,32.0,4.8,4368,"62, Rue dAlesia","Paris, Ile-de-France, France",restaurant,Paris,75014.0,14.0,intermediaire
+Made in Italy,15.0,4.8,394,35 Rue De La Boetie,"Paris, Ile-de-France, France",italien,Paris,75008.0,8.0,centre
+Hotel La Comtesse Tour Eiffel,25.0,4.8,1226,29 Av. de Tourville,"Paris, Ile-de-France, France",cafe,Paris,75007.0,7.0,centre
+Restaurant Akrame,100.0,4.8,1157,7 Rue Tronchet,"Paris, Ile-de-France, France",restaurant francais,Paris,75008.0,8.0,centre
+La Jacobine,35.0,4.8,8833,59-61 Rue Saint-Andre des Arts,"Paris, Ile-de-France, France",restaurant francais,Paris,75006.0,6.0,centre
+Cafe Francoeur,20.0,4.8,3180,129 Rue Caulaincourt,"Paris, Ile-de-France, France",cafe,Paris,75018.0,18.0,peripherie
+BOBBY,25.0,4.8,1853,29 Rue Lambert,"Paris, Ile-de-France, France",italien,Paris,75018.0,18.0,peripherie
+Bocamexa Reaumur,15.0,4.8,756,81 Rue Reaumur,"Paris, Ile-de-France, France",restaurant mexicains,Paris,75002.0,2.0,centre
+Le Pre Aux Clercs,25.0,4.8,3544,30 Rue Bonaparte,"Paris, Ile-de-France, France",pub et bar,Paris,75006.0,6.0,centre
+Burger King,15.0,4.8,8641,78-80 Avenue Du General Leclerc,"Paris, Ile-de-France, France",fast food,Paris,75014.0,14.0,intermediaire
+Samourice,5.5,4.8,613,203 Rue du Faubourg Saint-Antoine,"Paris, Ile-de-France, France",sushis,Paris,75010.0,10.0,intermediaire
+Angelino Trattoria,25.0,4.8,514,17 Rue Pergolese,"Paris, Ile-de-France, France",restaurant italiens,Paris,75116.0,16.0,peripherie
+Bambou,32.0,4.8,5518,23 Rue des Jeuneurs,"Paris, Ile-de-France, France",restaurant thailandais,Paris,75002.0,2.0,centre
+CHEZ MILO,25.0,4.8,8986,16 Rue Maublanc,"Paris, Ile-de-France, France",restaurant,Paris,75015.0,15.0,intermediaire
+Le Grand Bain,45.0,4.8,1229,14 Rue Denoyez,"Paris, Ile-de-France, France",restaurant francais,Paris,75020.0,20.0,peripherie
+Wild The Moon Gravilliers,15.0,4.8,1897,25 Rue Des Gravilliers,"Paris, Ile-de-France, France",restaurant,Paris,75003.0,3.0,centre
+La Plume Rive Droite,100.0,4.8,2953,43 Rue Etienne Marcel,"Paris, Ile-de-France, France",restaurant,Paris,75001.0,1.0,centre
+Amorino Gelato - Paris Gaite,5.5,4.8,2778,2 Rue de la Gaite,"Paris, Ile-de-France, France",cafe,Paris,75014.0,14.0,intermediaire
+La Plage Parisienne,30.5,4.8,4491,Port de Javel Haut,"Paris, Ile-de-France, France",restaurant francais,Paris,75015.0,15.0,intermediaire
+Restaurant LOyat,16.0,4.8,417,11 Rue Notre Dame de Nazareth,"Paris, Ile-de-France, France",restaurant,Paris,75003.0,3.0,centre
+Sosso Restaurant,25.0,4.8,1266,36 Rue Ramey,"Paris, Ile-de-France, France",restaurant mediterraneens,Paris,75018.0,18.0,peripherie
+Tripletta Belleville,15.0,4.8,2280,88 Bd de Belleville,"Paris, Ile-de-France, France",pizzeria,Paris,75020.0,20.0,peripherie
+Restaurant MAISON,100.0,4.8,343,3 Rue Saint-Hubert,"Paris, Ile-de-France, France",restaurant francais,Paris,75011.0,11.0,intermediaire
+Nicoles,25.0,4.8,1197,14 Rue de Bellechase,"Paris, Ile-de-France, France",pizzeria,Paris,75007.0,7.0,centre
+Restaurant Biscotte,55.0,4.8,828,22 Rue Desnouettes,"Paris, Ile-de-France, France",restaurant francais,Paris,75015.0,15.0,intermediaire
+O Sha Fluffy Pancake gluten free,15.0,4.8,1396,46 Bd du Temple,"Paris, Ile-de-France, France",sushis,Paris,75011.0,11.0,intermediaire
+La Taverne De ZHAOMenilmontant,15.0,4.8,1845,42 Rue de Menilmontant,"Paris, Ile-de-France, France",restaurant chinois,Paris,75020.0,20.0,peripherie
+Ambos Restaurant,70.0,4.8,508,38 Rue de Vaugirard,"Paris, Ile-de-France, France",restaurant francais,Paris,75006.0,6.0,centre
+Bocamexa,15.0,4.8,1122,12 Rue de la Roquette,"Paris, Ile-de-France, France",restaurant mexicains,Paris,75011.0,11.0,intermediaire
+KFC Saint Michel,15.0,4.8,2257,35 Bd Saint-Michel,"Paris, Ile-de-France, France",fast food,Paris,75005.0,5.0,centre
+Djakarta Bali Restaurant Romantique Indonesien,36.5,4.8,5347,9 Rue Vauvilliers,"Paris, Ile-de-France, France",restaurant,Paris,75001.0,1.0,centre
+Salsamenteria di Parma,25.0,4.8,2569,40 Rue Saint-Georges,"Paris, Ile-de-France, France",restaurant,Paris,75009.0,9.0,centre
+The Crossing Indian Bistro,35.0,4.8,1081,35 Bd Haussmann,"Paris, Ile-de-France, France",restaurant indiens,Paris,75009.0,9.0,centre
+Brasserie Chacha,25.0,4.8,509,150 Boulevard de Charonne,"Paris, Ile-de-France, France",restaurant francais,Paris,75020.0,20.0,peripherie
+Mokus Lecureuil,25.0,4.8,8116,116 Av. Kleber,"Paris, Ile-de-France, France",pizzeria,Paris,75116.0,16.0,peripherie
+WOWCRAB,32.0,4.8,1777,35 Rue La Fayette,"Paris, Ile-de-France, France",fruits de mer,Paris,75009.0,9.0,centre
+LA DOLCE VITA PARIS 5eme,15.0,4.8,1876,17 Rue Xavier Privas,"Paris, Ile-de-France, France",pizzeria,Paris,75005.0,5.0,centre
+Cafe de lAvenue - Paris 8,25.0,4.8,1692,190 Bd Haussmann,"Paris, Ile-de-France, France",cafe,Paris,75008.0,8.0,centre
+MELTY SMASH BURGERS,15.0,4.8,586,33 Av. de la Motte-Picquet,"Paris, Ile-de-France, France",restaurant,Paris,75007.0,7.0,centre
+Il Gigolo,25.0,4.8,5298,11 Rue de la Huchette,"Paris, Ile-de-France, France",restaurant,Paris,75005.0,5.0,centre
+Udon Kisin,25.0,4.8,1028,7-9 Rue de Ponthieu,"Paris, Ile-de-France, France",restaurant japonais,Paris,75008.0,8.0,centre
+LHOTSE,25.0,4.8,2236,44 Rue de Londres,"Paris, Ile-de-France, France",restaurant,Paris,75008.0,8.0,centre
+LAbreuvoir,25.0,4.8,4908,24 Rue du Dr Finlay,"Paris, Ile-de-France, France",restaurant,Paris,75015.0,15.0,intermediaire
+Los Franchutes,15.0,4.8,854,104 Boulevard Richard Lenoir,"Paris, Ile-de-France, France",pub et bar,Paris,75011.0,11.0,intermediaire
+Jolia,35.0,4.8,1906,123 Rue du Chemin Vert,"Paris, Ile-de-France, France",restaurant mediterraneens,Paris,75011.0,11.0,intermediaire
+THE SMOKED MEAT PARIS 11 - BASTILLE,15.0,4.8,2113,17 Rue Sedaine,"Paris, Ile-de-France, France",fast food,Paris,75011.0,11.0,intermediaire
+Shekamou,5.5,4.8,620,42 Rue des Entrepreneurs,"Paris, Ile-de-France, France",cafe,Paris,75015.0,15.0,intermediaire
+LandMonkeys Montmartre,5.5,4.8,410,28 Rue Ramey,"Paris, Ile-de-France, France",vegetarien,Paris,75018.0,18.0,peripherie
+Oppa BBQ - Restaurant Coreen a Chatelet,25.0,4.8,485,54 Rue Saint-Honore,"Paris, Ile-de-France, France",restaurant coreens,Paris,75001.0,1.0,centre
+Beefbar Paris,100.0,4.8,3324,5 Rue Marbeuf,"Paris, Ile-de-France, France",restaurant,Paris,75008.0,8.0,centre
+RATN,38.5,4.8,2419,9 Rue de la Tremoille,"Paris, Ile-de-France, France",restaurant indiens,Paris,75008.0,8.0,centre
+La Riotte,45.0,4.8,762,10 Rue de Castellane,"Paris, Ile-de-France, France",pub et bar,Paris,75008.0,8.0,centre
+Madonna,15.0,4.8,2214,52 Rue La Fayette,"Paris, Ile-de-France, France",restaurant italiens,Paris,75009.0,9.0,centre
+Mayfair Garden,45.0,4.8,3823,33 Rue Longchamps,"Paris, Ile-de-France, France",restaurant,Paris,75116.0,16.0,peripherie
+Balou Paris 3,15.0,4.8,3674,9-11 Rue aux Ours,"Paris, Ile-de-France, France",pub et bar,Paris,75003.0,3.0,centre
+Abuela,25.0,4.8,1900,10 Bd de Clichy,"Paris, Ile-de-France, France",restaurant espanols,Paris,75009.0,9.0,centre
+Le Ju,20.0,4.8,16076,16 Rue des Archives,"Paris, Ile-de-France, France",restaurant,Paris,75004.0,4.0,centre
+LEndroit,15.0,4.8,2961,67 Place du Docteur Felix Lobligeois,"Paris, Ile-de-France, France",cafe,Paris,75017.0,17.0,peripherie
+La Flanerie de Notre-Dame,5.5,4.8,895,4 Rue du Cloitre Notre Dame,"Paris, Ile-de-France, France",cafe,Paris,75004.0,4.0,centre
+Berthillon,5.5,4.8,9258,31 Rue Saint-Louis en lIle,"Paris, Ile-de-France, France",cafe,Paris,75004.0,4.0,centre
+Crepes Salades,5.5,4.8,1589,37 Rue Orfila,"Paris, Ile-de-France, France",desserts,Paris,75020.0,20.0,peripherie
+La Perla,25.0,4.8,8042,5 Rue Montorgueil,"Paris, Ile-de-France, France",restaurant,Paris,75001.0,1.0,centre
+Le Petit Vendome,25.0,4.8,3790,8 Rue des Capucines,"Paris, Ile-de-France, France",pub et bar,Paris,75002.0,2.0,centre
+Matsuri Bac,25.0,4.8,10531,74 Rue du Bac,"Paris, Ile-de-France, France",sushis,Paris,75007.0,7.0,centre
+OTacos Alesia Paris 14,15.0,4.8,836,65 Av. du General Leclerc,"Paris, Ile-de-France, France",fast food,Paris,75014.0,14.0,intermediaire
+Aux Trois Maillets,15.0,4.8,2516,67 Rue St Denis,"Paris, Ile-de-France, France",pub et bar,Paris,75001.0,1.0,centre
+X Lagrange,15.0,4.8,2192,10 Rue Lagrange,"Paris, Ile-de-France, France",restaurant,Paris,75005.0,5.0,centre
+Les Caves Populaires,10.5,4.8,963,22 Rue des Dames,"Paris, Ile-de-France, France",pub et bar,Paris,75017.0,17.0,peripherie
+amarante restaurant paris 75012,64.5,4.8,753,4 Rue Biscornet,"Paris, Ile-de-France, France",restaurant francais,Paris,75012.0,12.0,intermediaire
+Le Grand Restaurant Jean Francois Piege,100.0,4.8,978,7 Rue dAguesseau,"Paris, Ile-de-France, France",restaurant francais,Paris,75008.0,8.0,centre
+Aux Emotions,15.0,4.8,2206,1 Rue Dante,"Paris, Ile-de-France, France",pub et bar,Paris,75005.0,5.0,centre
+Tanori,15.0,4.8,2818,12 Rue Volta,"Paris, Ile-de-France, France",sushis,Paris,75003.0,3.0,centre
+Chez Julien,67.5,4.8,5478,1 Rue du Pont Louis-Philippe,"Paris, Ile-de-France, France",restaurant francais,Paris,75004.0,4.0,centre
+Su Misura Restaurant 100 Sans Gluten,25.0,4.8,3276,22 Av. Rapp,"Paris, Ile-de-France, France",restaurant,Paris,75007.0,7.0,centre
+Cafe Dauteur,5.5,4.8,964,25 Rue De Lhirondelle,"Paris, Ile-de-France, France",cafe,Paris,75006.0,6.0,centre
+Le Comptoir General,20.0,4.8,7875,84 Quai de Jemmapes,"Paris, Ile-de-France, France",restaurant,Paris,75010.0,10.0,intermediaire
+Pepita - Restaurant Paris 5,25.0,4.8,1667,88 Bd Saint-Germain,"Paris, Ile-de-France, France",pizzeria,Paris,75005.0,5.0,centre
+Quick Paris Sebastopol,15.0,4.8,2074,25 Boulevard De Sebastopol,"Paris, Ile-de-France, France",fast food,Paris,75001.0,1.0,centre
+Le Pain Quotidien,15.0,4.8,2738,18 Pl. du Marche Saint-Honore,"Paris, Ile-de-France, France",cafe,Paris,75001.0,1.0,centre
+La Bellevilloise,15.5,4.8,7260,19-21 Rue Boyer,"Paris, Ile-de-France, France",pub et bar,Paris,75020.0,20.0,peripherie
+Dar Mima,15.0,4.8,3619,1 Rue Des Fosses Saint-bernard,"Paris, Ile-de-France, France",restaurant marocains,Paris,75005.0,5.0,centre
+Hanami Tea Time - Paris,15.0,4.8,2260,50 Rue Des Gravilliers,"Paris, Ile-de-France, France",desserts,Paris,75003.0,3.0,centre
+Granite,100.0,4.8,891,6 Rue Bailleul,"Paris, Ile-de-France, France",restaurant francais,Paris,75001.0,1.0,centre
+LiLi,100.0,4.8,1053,19 Av. Kleber,"Paris, Ile-de-France, France",restaurant,Paris,75116.0,16.0,peripherie
+Le Goeland Daligre,15.0,4.8,1143,10 Place Daligre,"Paris, Ile-de-France, France",desserts,Paris,75012.0,12.0,intermediaire
+Jules,15.0,4.8,3691,2 Rue Bobillot,"Paris, Ile-de-France, France",cafe,Paris,75013.0,13.0,intermediaire
+SEEKLO Indian grill bar Restaurant,25.0,4.8,1410,96 Rue Oberkampf,"Paris, Ile-de-France, France",restaurant,Paris,75011.0,11.0,intermediaire
+Barawine,25.0,4.8,763,25 Rue de Charonne,"Paris, Ile-de-France, France",pub et bar,Paris,75011.0,11.0,intermediaire
+Sushi Shunei,100.0,4.8,218,3 Rue Audran,"Paris, Ile-de-France, France",sushis,Paris,75018.0,18.0,peripherie
+Le Sirocco,35.0,4.8,1483,8 Bis Rue des Gobelins,"Paris, Ile-de-France, France",restaurant,Paris,75013.0,13.0,intermediaire
+Leon Fish Brasserie - Montparnasse,25.0,4.8,7123,82 BIS Bd du Montparnasse,"Paris, Ile-de-France, France",restaurant,Paris,75014.0,14.0,intermediaire
+the friendly kitchen,30.0,4.8,1538,8 Rue Popincourt,"Paris, Ile-de-France, France",vegetarien,Paris,75011.0,11.0,intermediaire
+Cafe de la Regence,25.0,4.8,5018,167 Rue Saint-Honore,"Paris, Ile-de-France, France",cafe,Paris,75001.0,1.0,centre
+Crazy For MoMo Paris Anvers,15.0,4.8,844,91 Rue Marguerite de Rochechouart,"Paris, Ile-de-France, France",restaurant,Paris,75009.0,9.0,centre
+La Creperie de Josselin,15.0,4.8,8264,67 Rue du Montparnasse,"Paris, Ile-de-France, France",desserts,Paris,75014.0,14.0,intermediaire
+Burger Fries Bonne Nouvelle,15.0,4.8,4393,1 Boulevard de Bonne Nouvelle,"Paris, Ile-de-France, France",fast food,Paris,75002.0,2.0,centre
+Kigawa,100.0,4.8,1022,186 Rue du Chateau,"Paris, Ile-de-France, France",restaurant francais,Paris,75014.0,14.0,intermediaire
+Terrasse Beirut,15.0,4.8,896,9 Rue Jaucourt,"Paris, Ile-de-France, France",restaurant libanais,Paris,75012.0,12.0,intermediaire
+Restaurant KISS,15.0,4.8,2416,3 Rue Abel Hovelacque,"Paris, Ile-de-France, France",restaurant,Paris,75013.0,13.0,intermediaire
+Cafe de lEmpire,15.0,4.8,3320,17 Rue du Bac,"Paris, Ile-de-France, France",cafe,Paris,75007.0,7.0,centre
+Le NImporte Quoi,15.0,4.8,3428,16 Rue du Roule,"Paris, Ile-de-France, France",bars a cocktails,Paris,75001.0,1.0,centre
+Elmer - Cuisine au feu de bois rotissoire,100.0,4.8,1351,30 Rue Notre Dame de Nazareth,"Paris, Ile-de-France, France",restaurant francais,Paris,75003.0,3.0,centre
+Diletto,15.0,4.8,785,50 Boulevard Voltaire,"Paris, Ile-de-France, France",cafe,Paris,75011.0,11.0,intermediaire
+Loliveto Paris,30.0,4.8,5141,38 Rue De Buci,"Paris, Ile-de-France, France",restaurant italiens,Paris,75006.0,6.0,centre
+Riz Riz,25.0,4.8,1449,221 Rue Saint-Martin,"Paris, Ile-de-France, France",vegetarien,Paris,75003.0,3.0,centre
+RESTAURANT LE TRESOR,19.5,4.8,4229,9 Rue du Tresor,"Paris, Ile-de-France, France",restaurant francais,Paris,75004.0,4.0,centre
+Cevicheria PETIT PACIFICO - Specialiste du ceviche caliente a Paris et des ceviches au caviar de poisson Plats a emporter,25.0,4.8,758,38 Rue de Citeaux,"Paris, Ile-de-France, France",restaurant,Paris,75012.0,12.0,intermediaire
+Osteria Brutto,40.0,4.8,922,15 Rue Gracieuse,"Paris, Ile-de-France, France",restaurant italiens,Paris,75005.0,5.0,centre
+Brasserie Napoleon III,25.0,4.8,2289,1 Pl. Armand Carrel,"Paris, Ile-de-France, France",restaurant francais,Paris,75019.0,19.0,peripherie
+Lady Marmelade,25.0,4.8,641,46 Rue Lamarck,"Paris, Ile-de-France, France",restaurant,Paris,75018.0,18.0,peripherie
+Restaurant coreen SINDANG GRILL Paris 2,25.0,4.8,1201,51 Pass. des Panoramas,"Paris, Ile-de-France, France",restaurant coreens,Paris,75002.0,2.0,centre
+Juveniles,41.0,4.8,1470,47 Rue de Richelieu,"Paris, Ile-de-France, France",pub et bar,Paris,75001.0,1.0,centre
+Naniwa-Ya Izakaya,15.0,4.8,3444,11 Rue Sainte-Anne,"Paris, Ile-de-France, France",sushis,Paris,75001.0,1.0,centre
+Ritz Paris Le Comptoir Cambon,14.0,4.8,3065,38 Rue Cambon,"Paris, Ile-de-France, France",cafe,Paris,75001.0,1.0,centre
+Le Jeroboam,17.5,4.8,13834,72 Rue Didot,"Paris, Ile-de-France, France",restaurant francais,Paris,75014.0,14.0,intermediaire
+Picchetto,30.0,4.8,1920,50 Av. de la Motte-Picquet,"Paris, Ile-de-France, France",restaurant,Paris,75015.0,15.0,intermediaire
+LAmour Vache,25.0,4.8,2668,2 Bd de Bonne Nouvelle,"Paris, Ile-de-France, France",restaurant,Paris,75010.0,10.0,intermediaire
+Cafe de Paris V,15.0,4.8,2020,14 Rue de la Huchette,"Paris, Ile-de-France, France",pub et bar,Paris,75005.0,5.0,centre
+Fogo,100.0,4.8,167,8 Rue Meissonier,"Paris, Ile-de-France, France",restaurant,Paris,75017.0,17.0,peripherie
+Le Royal Bar,25.0,4.8,1746,212 Rue de Grenelle,"Paris, Ile-de-France, France",pub et bar,Paris,75007.0,7.0,centre
+Restaurant Cleo,100.0,4.8,3138,19 Bd de la Tour-Maubourg,"Paris, Ile-de-France, France",restaurant,Paris,75007.0,7.0,centre
+Le Compas,30.0,4.8,5057,62 Rue Montorgueil,"Paris, Ile-de-France, France",pub et bar,Paris,75002.0,2.0,centre
+LAccolade,50.0,4.8,902,208 Rue de la Croix Nivert,"Paris, Ile-de-France, France",restaurant francais,Paris,75015.0,15.0,intermediaire
+Restaurant NESO,100.0,4.8,474,3 Rue Papillon,"Paris, Ile-de-France, France",restaurant francais,Paris,75009.0,9.0,centre
+LAgape,100.0,4.8,1196,51 Rue Jouffroy dAbbans,"Paris, Ile-de-France, France",restaurant francais,Paris,75017.0,17.0,peripherie
+Le Grand Pan,51.0,4.8,2281,20 Rue Rosenwald,"Paris, Ile-de-France, France",restaurant francais,Paris,75015.0,15.0,intermediaire
+Gusto Italia Amelie,15.0,4.8,1482,11 Rue Amelie,"Paris, Ile-de-France, France",restaurant,Paris,75007.0,7.0,centre
+Le Maung Coffee,5.5,4.8,586,51 Rue Greneta,"Paris, Ile-de-France, France",cafe,Paris,75002.0,2.0,centre
+Cantine La Planque,25.0,4.8,1248,6 Pl. Felix Eboue,"Paris, Ile-de-France, France",restaurant francais,Paris,75012.0,12.0,intermediaire
+Lichette,35.0,4.8,546,381 Rue des Pyrenees,"Paris, Ile-de-France, France",restaurant,Paris,75020.0,20.0,peripherie
+Le Solferino,25.0,4.8,4309,262 Bd Saint-Germain,"Paris, Ile-de-France, France",restaurant francais,Paris,75007.0,7.0,centre
+LHomme Bleu,25.0,4.8,4139,55 Bis Rue Jean-Pierre Timbaud,"Paris, Ile-de-France, France",restaurant marocains,Paris,75011.0,11.0,intermediaire
+Miss Ko,30.5,4.8,14011,49-51 Av. George V,"Paris, Ile-de-France, France",sushis,Paris,75008.0,8.0,centre
+Oni ramen,15.0,4.8,884,19 Rue Saint-severin,"Paris, Ile-de-France, France",restaurant japonais,Paris,75005.0,5.0,centre
+La Rotisserie dArgent,100.0,4.8,4939,19 Quai de la Tournelle,"Paris, Ile-de-France, France",pub et bar,Paris,75005.0,5.0,centre
+Bus Toque,100.0,4.8,3052,107 Av. des Champs-Elysees,"Paris, Ile-de-France, France",restaurant francais,Paris,75008.0,8.0,centre
+Restaurant Songsan,25.0,4.8,2053,20 Rue Marmontel,"Paris, Ile-de-France, France",restaurant,Paris,75015.0,15.0,intermediaire
+LiBeyrouth,15.0,4.8,4038,72 Rue Mouffetard,"Paris, Ile-de-France, France",restaurant libanais,Paris,75005.0,5.0,centre
+La Crepe Rit du Clown,15.0,4.8,4610,6 Rue des Canettes,"Paris, Ile-de-France, France",desserts,Paris,75006.0,6.0,centre
+Juste,15.0,4.8,2964,48 Rue Laffitte,"Paris, Ile-de-France, France",restaurant,Paris,75009.0,9.0,centre
+Pizzou Marais,15.0,4.8,1360,29 Rue du Bourg Tibourg,"Paris, Ile-de-France, France",pizzeria,Paris,75004.0,4.0,centre
+Les 110 De Taillevent,100.0,4.8,2111,195 Rue Du Faubourg Saint-honore,"Paris, Ile-de-France, France",pub et bar,Paris,75008.0,8.0,centre
+KFC Paris Clignancourt,15.0,4.8,2689,35 Bd Ney,"Paris, Ile-de-France, France",fast food,Paris,75018.0,18.0,peripherie
+Charbon,15.0,4.8,1520,12 Rue Bayen,"Paris, Ile-de-France, France",restaurant,Paris,75017.0,17.0,peripherie
+Furahaa Vegan,15.0,4.8,1604,78 Rue Reaumur,"Paris, Ile-de-France, France",vegetarien,Paris,75002.0,2.0,centre
+BibimBao,15.0,4.8,437,59 Rue Claude Bernard,"Paris, Ile-de-France, France",restaurant,Paris,75005.0,5.0,centre
+Petrelle,100.0,4.8,489,34 Rue Petrelle,"Paris, Ile-de-France, France",restaurant francais,Paris,75009.0,9.0,centre
+Mijo T,55.0,4.8,1064,6 Rue Victor Letalle,"Paris, Ile-de-France, France",restaurant francais,Paris,75020.0,20.0,peripherie
+Mon waffle,9.0,4.8,3942,81 Rue Rambuteau,"Paris, Ile-de-France, France",fast food,Paris,75001.0,1.0,centre
+Falstaff Bastille,20.0,4.8,4931,10-12 Pl. de la Bastille,"Paris, Ile-de-France, France",cafe,Paris,75011.0,11.0,intermediaire
+Osteria Ferrara,36.5,4.8,1006,7 Rue du Dahomey,"Paris, Ile-de-France, France",restaurant italiens,Paris,75011.0,11.0,intermediaire
+Indy Restaurant,25.0,4.8,1842,25 Rue du Faubourg Saint-Martin,"Paris, Ile-de-France, France",restaurant,Paris,75010.0,10.0,intermediaire
+Augustin,49.5,4.8,2331,79 Rue Daguerre,"Paris, Ile-de-France, France",restaurant francais,Paris,75014.0,14.0,intermediaire
+Nonno Nino Restaurant,30.0,4.8,2177,10 Rue Bremontier,"Paris, Ile-de-France, France",restaurant italiens,Paris,75017.0,17.0,peripherie
+Neonato,30.0,4.8,1039,182 Rue Saint-Martin,"Paris, Ile-de-France, France",restaurant italiens,Paris,75003.0,3.0,centre
+Mamie Colette,25.0,4.8,1915,17 Rue des Trois Freres,"Paris, Ile-de-France, France",restaurant francais,Paris,75018.0,18.0,peripherie
+Nomas Paris 10 - Mexican Street Food,5.5,4.8,1501,44 Rue du Faubourg Saint-Denis,"Paris, Ile-de-France, France",mexicain,Paris,75010.0,10.0,intermediaire
+Le TY Louis,30.0,4.8,2375,240 Rue Du Faubourg Saint Antoine,"Paris, Ile-de-France, France",restaurant,Paris,75012.0,12.0,intermediaire
+Le Cafe De Paris Friedland,20.0,4.8,3986,45 Av. de Friedland,"Paris, Ile-de-France, France",cafe,Paris,75008.0,8.0,centre
+La Pause Libanaise Sentier,15.0,4.8,1078,104 Rue Reaumur,"Paris, Ile-de-France, France",fast food,Paris,75002.0,2.0,centre
+Mr Zhao,15.0,4.8,2195,37 Rue des Jeuneurs,"Paris, Ile-de-France, France",chinois,Paris,75002.0,2.0,centre
+Le 5eme CRU Chez BruNab,25.0,4.8,813,7 Rue du Cardinal Lemoine,"Paris, Ile-de-France, France",pub et bar,Paris,75005.0,5.0,centre
+Cafe Courtial,15.0,4.8,469,2 Rue Sauval,"Paris, Ile-de-France, France",cafe,Paris,75001.0,1.0,centre
+Parcelles,62.0,4.8,486,13 Rue Chapon,"Paris, Ile-de-France, France",restaurant,Paris,75003.0,3.0,centre
+Esalta,5.5,4.8,405,71 Rue Greneta,"Paris, Ile-de-France, France",restaurant,Paris,75002.0,2.0,centre
+La Maison Du Daya - Paris 1er,15.0,4.8,729,53 Rue De Richelieu,"Paris, Ile-de-France, France",restaurant,Paris,75001.0,1.0,centre
+Acai You - Maubeuge brunch Coffee,15.0,4.8,2259,78 Rue de Maubeuge,"Paris, Ile-de-France, France",cafe,Paris,75009.0,9.0,centre
+LAuberge des Crus,45.0,4.8,129,13 Rue Bosio,"Paris, Ile-de-France, France",restaurant,Paris,75016.0,16.0,peripherie
+Unplug Bar - Cocktails Tapas,32.0,4.8,985,57 Rue dAnjou,"Paris, Ile-de-France, France",pub et bar,Paris,75008.0,8.0,centre
+VG Patisserie - Patisserie Vegetale,5.5,4.8,3507,123 Boulevard Voltaire,"Paris, Ile-de-France, France",vegetarien,Paris,75011.0,11.0,intermediaire
+Il etait une oie dans le Sud Ouest,30.5,4.8,2516,8 Rue Gustave Flaubert,"Paris, Ile-de-France, France",restaurant,Paris,75017.0,17.0,peripherie
+Le Belisaire,30.5,4.8,2444,2 Rue Marmontel,"Paris, Ile-de-France, France",restaurant francais,Paris,75015.0,15.0,intermediaire
+TOWA Restaurant,60.0,4.8,816,75 Rue Crozatier,"Paris, Ile-de-France, France",restaurant francais,Paris,75012.0,12.0,intermediaire
+Le Cotte Roti,54.0,4.8,959,1 Rue de Cotte,"Paris, Ile-de-France, France",restaurant francais,Paris,75012.0,12.0,intermediaire
+LEtoile Longchamp Restaurant Marocain,25.0,4.8,1135,19 Rue de Longchamp,"Paris, Ile-de-France, France",restaurant,Paris,75116.0,16.0,peripherie
+Cafe Laperouse Paris,19.5,4.8,2526,2 Pl. de la Concorde,"Paris, Ile-de-France, France",cafe,Paris,75008.0,8.0,centre
+Flocon,36.0,4.8,606,75 Rue Mouffetard,"Paris, Ile-de-France, France",restaurant,Paris,75005.0,5.0,centre
+Peniche Le Marcounet,25.0,4.8,3720,"Port des Celestins, Quai de lHotel de ville","Paris, Ile-de-France, France",pub et bar,Paris,75004.0,4.0,centre
+Le Petit Pontoise,34.0,4.8,4196,9 Rue de Pontoise,"Paris, Ile-de-France, France",restaurant francais,Paris,75005.0,5.0,centre
+Maison Rostang,100.0,4.8,1814,20 Rue Rennequin,"Paris, Ile-de-France, France",restaurant francais,Paris,75017.0,17.0,peripherie
+Quick Paris place de Clichy Chabert,15.0,4.8,1859,"11, Place de Clichy","Paris, Ile-de-France, France",fast food,Paris,75017.0,17.0,peripherie
+Exotica,15.0,4.8,2954,75 Av. Emile Zola,"Paris, Ile-de-France, France",restaurant,Paris,75015.0,15.0,intermediaire
+Le Cepage Montmartrois,25.0,4.8,2426,65 Rue Caulaincourt,"Paris, Ile-de-France, France",pub et bar,Paris,75018.0,18.0,peripherie
+Amorino Gelato - Paris Cler,5.5,4.8,2551,42 Rue Cler,"Paris, Ile-de-France, France",desserts,Paris,75007.0,7.0,centre
+Le Campanella,25.0,4.8,3422,18 Av. Bosquet,"Paris, Ile-de-France, France",pub et bar,Paris,75007.0,7.0,centre
+Numidia - Restaurant Algerien BBQ,15.0,4.8,812,7 Bd de Belleville,"Paris, Ile-de-France, France",restaurant,Paris,75011.0,11.0,intermediaire
+Yasmin,15.0,4.8,5980,7173 Pass. Brady,"Paris, Ile-de-France, France",restaurant,Paris,75010.0,10.0,intermediaire
+LA GRAPPE,15.0,4.8,1162,5 Rue des Petits Carreaux,"Paris, Ile-de-France, France",pub et bar,Paris,75002.0,2.0,centre
+Les barioles de Maud - 11e,25.0,4.8,3417,8 Rue Saint-Bernard,"Paris, Ile-de-France, France",restaurant francais,Paris,75011.0,11.0,intermediaire
+Eclair De Genie Cafe,15.0,4.8,1059,122 Rue Montmartre,"Paris, Ile-de-France, France",cafe,Paris,75002.0,2.0,centre
+Le Double Fond,15.5,4.8,1956,1 Pl. du Marche Sainte-Catherine,"Paris, Ile-de-France, France",cafe,Paris,75004.0,4.0,centre
+Les Belles Plantes,25.0,4.8,1804,47 Rue Cuvier,"Paris, Ile-de-France, France",restaurant francais,Paris,75005.0,5.0,centre
+Maison Dubois,100.0,4.8,116,2 Rue de Vienne,"Paris, Ile-de-France, France",restaurant francais,Paris,75008.0,8.0,centre
+Les Demoiselles Restaurant Cafe Paris 17,20.5,4.8,1819,23 Rue Leon Jost,"Paris, Ile-de-France, France",restaurant francais,Paris,75017.0,17.0,peripherie
+Bobo snack,15.0,4.8,539,27 Rue Meslay,"Paris, Ile-de-France, France",restaurant,Paris,75003.0,3.0,centre
+Eat africa - Restaurant africain,15.0,4.8,1294,13 Rue de Suez,"Paris, Ile-de-France, France",restaurant africains,Paris,75018.0,18.0,peripherie
+BENKAY TEPPAN-YAKI,100.0,4.8,3977,61 Quai de Grenelle,"Paris, Ile-de-France, France",restaurant,Paris,75015.0,15.0,intermediaire
+Amorino Gelato - Paris Mouffetard,5.5,4.8,1281,18 Rue Mouffetard,"Paris, Ile-de-France, France",desserts,Paris,75005.0,5.0,centre
+Le Quincy,81.5,4.8,710,28 Av. Ledru Rollin,"Paris, Ile-de-France, France",restaurant francais,Paris,75012.0,12.0,intermediaire
+La Couvee Montmartre,15.5,4.8,2969,32 Rue Veron,"Paris, Ile-de-France, France",restaurant,Paris,75018.0,18.0,peripherie
+Kuti,15.0,4.8,869,6 R. des Petites Ecuries,"Paris, Ile-de-France, France",restaurant africains,Paris,75010.0,10.0,intermediaire
+RAVIOLI NORD-EST,15.0,4.8,1023,17 Rue Du Faubourg Montmartre,"Paris, Ile-de-France, France",restaurant chinois,Paris,75009.0,9.0,centre
+Helia Champs Elysees,25.0,4.8,3227,16 Rue du Colisee,"Paris, Ile-de-France, France",restaurant,Paris,75008.0,8.0,centre
+Cafe DUNKERQUE,15.0,4.8,2185,1 Av. Trudaine,"Paris, Ile-de-France, France",cafe,Paris,75009.0,9.0,centre
+La Poule au Pot,100.0,4.8,2421,9 Rue Vauvilliers,"Paris, Ile-de-France, France",restaurant francais,Paris,75001.0,1.0,centre
+NiuNiu Hot Pot,40.0,4.8,452,11 Rue Greneta,"Paris, Ile-de-France, France",restaurant,Paris,75003.0,3.0,centre
+Merci Jerome Pont-neuf,5.5,4.8,889,12 Quai de la Megisserie,"Paris, Ile-de-France, France",cafe georgien,Paris,75001.0,1.0,centre
+Baguette - Restaurant,30.0,4.8,1066,16 Rue Marie Stuart,"Paris, Ile-de-France, France",restaurant francais,Paris,75002.0,2.0,centre
+La Damascena,15.0,4.8,535,38 Rue Dauphine,"Paris, Ile-de-France, France",restaurant,Paris,75006.0,6.0,centre
+Le Squab,15.0,4.8,336,Rue des Fosses Saint-Bernard,"Paris, Ile-de-France, France",fast food,Paris,75005.0,5.0,centre
+Auptitgrec Creperie,5.5,4.8,1341,9 Rue Victor Cousin,"Paris, Ile-de-France, France",cafeteria,Paris,75005.0,5.0,centre
+Le Verre Vole,1.0,4.8,2320,67 Rue de Lancry,"Paris, Ile-de-France, France",pub et bar,Paris,75010.0,10.0,intermediaire
+Relais Louis XIII,100.0,4.8,1537,8 Rue des Grands Augustins,"Paris, Ile-de-France, France",restaurant francais,Paris,75006.0,6.0,centre
+Les Editeurs,34.5,4.8,7762,4 Carr de lOdeon,"Paris, Ile-de-France, France",restaurant francais,Paris,75006.0,6.0,centre
+KIM Restaurant Japonais OperaGrand boulevard,15.0,4.8,895,4 Rue de Port-Mahon,"Paris, Ile-de-France, France",restaurant japonais,Paris,75002.0,2.0,centre
+Comme Chez Soi,25.0,4.8,3412,19 Rue de la Gaite,"Paris, Ile-de-France, France",cafeteria,Paris,75014.0,14.0,intermediaire
+Le comptoir de la traboule,15.5,4.8,1917,1 bis Rue Augereau,"Paris, Ile-de-France, France",restaurant,Paris,75007.0,7.0,centre
+Le Saint-Regis - Paris,15.5,4.8,6904,6 Rue Jean du Bellay,"Paris, Ile-de-France, France",cafe,Paris,75004.0,4.0,centre
+Bouillon Racine,33.5,4.8,5874,3 Rue Racine,"Paris, Ile-de-France, France",restaurant francais,Paris,75006.0,6.0,centre
+Big Black Cook,15.0,4.8,1870,7 Rue Tiquetonne,"Paris, Ile-de-France, France",restaurant,Paris,75002.0,2.0,centre
+Chez Michel,38.0,4.8,1627,10 Rue de Belzunce,"Paris, Ile-de-France, France",restaurant,Paris,75010.0,10.0,intermediaire
+Santa Carne,32.0,4.8,4185,3 Bd Richard-Lenoir,"Paris, Ile-de-France, France",restaurant a viande,Paris,75011.0,11.0,intermediaire
+Trois Fois plus de Piment,15.0,4.8,3695,184 Rue Saint-Martin,"Paris, Ile-de-France, France",restaurant,Paris,75003.0,3.0,centre
+Atelier Carnem,186.5,4.8,2394,5 Rue du Pot de Fer,"Paris, Ile-de-France, France",restaurant a viande,Paris,75005.0,5.0,centre
+Residence Kann Coffee Shop,5.5,4.8,590,28 Rue des Vinaigriers,"Paris, Ile-de-France, France",cafe,Paris,75010.0,10.0,intermediaire
+Un Jour A Lhasa,15.0,4.8,819,312 Rue Saint-Martin,"Paris, Ile-de-France, France",restaurant tibetains,Paris,75003.0,3.0,centre
+DS Cafe,25.0,4.8,1114,25 Av. Niel,"Paris, Ile-de-France, France",cafe,Paris,75017.0,17.0,peripherie
+All In Sushi - Meilleur Sushi a Paris Fraicheur Qualite pres de la Place des Vosges et restaurant Rue de Turenne,15.0,4.8,991,40 Rue de Turenne,"Paris, Ile-de-France, France",sushis,Paris,75003.0,3.0,centre
