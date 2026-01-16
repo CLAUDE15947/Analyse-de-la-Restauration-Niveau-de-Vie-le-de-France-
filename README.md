@@ -1,19 +1,19 @@
 Analyse de la restauration en Île-de-France
 J'ai réalisé ce projet pour comprendre comment le niveau de vie des communes influence le secteur de la restauration. L'idée était de voir s'il existe une corrélation réelle entre la richesse d'une ville (revenu, chômage, éducation) et les caractéristiques de ses restaurants (prix, notes, popularité).
-+2
 
- Ce que j'ai fait
+
+ Ce que j'ai fait :
 
 Récupération des données : J'ai scrapé environ 10 000 restaurants sur RestaurantGuru.
-+1
+
 
 
 Enrichissement API : Comme le scraping ne donnait pas les communes précises, j'ai utilisé l'API Nominatim pour transformer les coordonnées GPS en codes INSEE.
-+2
+
 
 
 Analyse & Nettoyage : J'ai nettoyé les datasets et agrégé les données socio-économiques de l'INSEE avec les données des restaurants.
-+2
+
 
 Machine Learning : J'ai développé un modèle de Gradient Boosting pour prédire le prix moyen d'un restaurant en fonction de sa localisation et de sa catégorie.
 
